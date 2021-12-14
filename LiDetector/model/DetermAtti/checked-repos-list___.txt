@@ -1,0 +1,7 @@
+dwavesystems__dwave-ocean-sdk__declared-license-1.txt
+dwavesystems__dwave-ocean-sdk__inline2-license-2.txt
+dwavesystems__dwave-ocean-sdk__inline2-license-3.txt
+dwavesystems__dwave-ocean-sdk__inline2-license-4.txt
+dwavesystems__dwave-ocean-sdk__inline2-license-5.txt
+dwavesystems__dwave-ocean-sdk__inline2-license-6.txt
+dwavesystems__dwave-ocean-sdk__project-license-1.txt

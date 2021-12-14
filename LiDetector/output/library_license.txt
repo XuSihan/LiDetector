@@ -1,0 +1,2281 @@
+enum ::::: GNU General Public License (GPL) (GPL-3.0+)
+abc ::::: UNKNOWN
+mrjob ::::: Apache Software License (Apache)
+collections ::::: UNKNOWN
+threading ::::: MIT
+hashlib ::::: Python Software Foundation License
+django ::::: BSD License (BSD-3-Clause)
+backcall ::::: BSD License
+isort ::::: MIT License (MIT)
+six ::::: MIT License (MIT)
+wrapt ::::: BSD License (BSD)
+bson ::::: BSD
+logging ::::: Copyright (C) 2001-2005 by Vinay Sajip. All Rights Reserved. See LICENSE for license.
+pytesseract ::::: Apache Software License (Apache License 2.0)
+pymongo ::::: Apache Software License (Apache License, Version 2.0)
+pylint ::::: GNU General Public License (GPL) (GPL)
+matplotlib ::::: Python Software Foundation License (PSF)
+beautifulsoup4 ::::: MIT License (MIT)
+turtle ::::: MIT License (MIT License)
+ptyprocess ::::: ISC License (ISCL)
+appnope ::::: BSD License (BSD)
+Crypto ::::: MIT License (MIT license)
+memory-profiler ::::: BSD License (BSD)
+typed-ast ::::: Apache License 2.0
+json ::::: MIT License
+pickle ::::: Python Software Foundation License (PSFL 2)
+pytz ::::: MIT License (MIT)
+decorator ::::: BSD License (new BSD License)
+urllib3 ::::: MIT License (MIT)
+requests ::::: Apache Software License (Apache 2.0)
+psutil ::::: BSD License (BSD)
+aiohttp ::::: Apache Software License (Apache 2)
+contextlib ::::: Python Software Foundation License (PSF License)
+pygame ::::: LGPL
+redis ::::: MIT License (MIT)
+scrapy ::::: BSD License (BSD)
+python-dateutil ::::: Apache Software License, BSD License (Dual License)
+idna ::::: BSD License (BSD-3-Clause)
+lxml ::::: BSD License (BSD)
+Pygments ::::: BSD License (BSD License)
+chardet ::::: GNU Library or Lesser General Public License (LGPL) (LGPL)
+astroid ::::: LGPL
+multiprocessing ::::: BSD License (BSD Licence)
+inspect ::::: Python Software Foundation License (PSF)
+random ::::: Python Software Foundation License (Python 2.1.1)
+pymysql ::::: MIT License ("MIT")
+PyPDF2 ::::: BSD License (UNKNOWN)
+functools ::::: BSD
+wcwidth ::::: MIT License (MIT)
+pyperclip ::::: BSD License (BSD)
+jedi ::::: MIT License (MIT)
+datetime ::::: Zope Public License (ZPL 2.1)
+docx ::::: UNKNOWN
+traitlets ::::: BSD License (BSD)
+re ::::: BSD License (New BSD License)
+soupsieve ::::: MIT License (MIT License)
+robobrowser ::::: BSD License (MIT)
+douban ::::: MIT License
+first ::::: MIT License (MIT)
+ssl ::::: Python (MIT-like)
+pexpect ::::: ISC License (ISCL) (ISC license)
+selenium ::::: Apache Software License (Apache 2.0)
+lazy-object-proxy ::::: BSD License (BSD-2-Clause)
+csv2 ::::: MIT License (MIT)
+pandas ::::: BSD
+numpy ::::: OSI Approved (BSD)
+line-profiler ::::: BSD License (BSD)
+openpyxl ::::: MIT License (MIT)
+mccabe ::::: MIT License (Expat license)
+urllib ::::: MIT License (MIT)
+certifi ::::: Mozilla Public License 2.0 (MPL 2.0) (MPL-2.0)
+glob ::::: BSD License (BSD)
+prompt-toolkit ::::: BSD License
+pickleshare ::::: MIT License (MIT)
+ipython ::::: BSD License (BSD)
+parso ::::: MIT License (MIT)
+ipython-genutils ::::: BSD License (BSD)
+asyncio ::::: PSF
+http ::::: MIT License (MIT)
+opencv-python ::::: MIT License (MIT)
+html ::::: BSD License (UNKNOWN)
+matrix ::::: BSD License (BSD)
+qiskit ::::: Apache Software License (Apache 2.0)
+pathlib ::::: MIT License (MIT License)
+statsmodels ::::: BSD License (BSD License)
+pytest ::::: MIT License (MIT)
+xgboost ::::: Apache Software License (Apache-2.0)
+pillow ::::: Historical Permission Notice and Disclaimer (HPND) (HPND)
+scikit-fuzzy ::::: BSD License (Modified BSD)
+doctest ::::: OSI Approved, MIT License (MIT)
+graphs ::::: MIT
+sympy ::::: BSD License (BSD)
+scipy ::::: BSD License (BSD)
+argparse ::::: Python Software Foundation License (Python Software Foundation License)
+fake_useragent ::::: Apache Software License
+sklearn ::::: UNKNOWN
+__future__ ::::: OSI Approved, MIT License (MIT)
+knapsack ::::: MIT License (MIT)
+__main__ ::::: UNKNOWN
+mpmath ::::: BSD
+tempfile ::::: MIT License (MIT)
+typing ::::: Python Software Foundation License (PSF)
+dataclasses ::::: Apache Software License (Apache)
+mkdocs ::::: BSD License (BSD)
+mkdocs-material ::::: MIT License (MIT)
+test ::::: UNKNOWN
+xattr ::::: MIT License (MIT License)
+urlparse ::::: MIT License (MIT)
+py2exe ::::: MIT License, Mozilla Public License 2.0 (MPL 2.0) (MIT/X11)
+getpass ::::: MIT
+youtube_dl ::::: Public Domain (Unlicense)
+uuid ::::: UNKNOWN
+rsa ::::: Apache Software License (ASL 2)
+distutils ::::: Python license
+HTMLParser ::::: BSD License (BSD)
+textwrap ::::: Python Software Foundation License (Python Software Foundation License)
+traceback ::::: Python Software Foundation License (UNKNOWN)
+setuptools ::::: MIT License
+httplib ::::: MIT License (MIT)
+signal ::::: BSD
+mock ::::: BSD License
+project ::::: MIT License (MIT)
+ops ::::: Apache Software License (Apache-2.0)
+prettytable ::::: BSD License (BSD (3 clause))
+tensorflow_datasets ::::: Apache Software License (Apache 2.0)
+resampy ::::: ISC License (ISCL) (ISC)
+tensorflow-datasets ::::: Apache Software License (Apache 2.0)
+deeplab ::::: MIT License (MIT)
+tensorflow ::::: Apache Software License (Apache 2.0)
+objective ::::: Apache Software License
+util ::::: MIT License
+envs ::::: GNU GPL v3
+tensorflow_probability ::::: Apache Software License (Apache 2.0)
+environments ::::: Open Science License (see fabien.benureau.com/openscience.html)
+features ::::: MIT License (MIT)
+inputs ::::: BSD License (BSD)
+apache_beam ::::: Apache Software License (Apache License, Version 2.0)
+policies ::::: GNU General Public License v3 or later (GPLv3+) (GNU General Public License v3 or later (GPLv3+))
+config ::::: BSD License (Copyright (C) 2004-2020 by Vinay Sajip. All Rights Reserved. See LICENSE for license.)
+dataset_loader ::::: Type license() to see the full license text
+nets ::::: Apache License-2.0
+train ::::: MIT License (MIT)
+models ::::: GNU Library or Lesser General Public License (LGPL) (GNU Lesser General Public License (LGPL), Version 3)
+sox ::::: BSD-3-Clause
+IPython ::::: BSD License (BSD)
+soundfile ::::: BSD License (BSD 3-Clause License)
+datasets ::::: Apache Software License (Apache 2.0)
+Cython ::::: Apache Software License (Apache)
+context ::::: UNKNOWN
+unicodedata ::::: Apache License 2.0
+google ::::: BSD License
+data ::::: MIT
+layers ::::: UNKNOWN
+baseline ::::: MIT License (MIT License ; http://opensource.org/licenses/MIT)
+preprocessing ::::: MIT
+tf_slim ::::: Apache Software License (Apache 2.0)
+utils ::::: GNU Lesser General Public License v3 or later (LGPLv3+)
+distributions ::::: Revised BSD
+opencv-python-headless ::::: MIT License (MIT)
+h5py ::::: BSD License (BSD)
+data_utils ::::: UNLICENSED
+nltk ::::: Apache Software License (Apache License, Version 2.0)
+reader ::::: BSD License (BSD)
+tensorflowjs ::::: Apache Software License (Apache 2.0)
+pyglib ::::: BSD License (BSD)
+object_detection ::::: Apache License 2.0
+tf_agents ::::: Apache Software License (Apache 2.0)
+orbit ::::: MIT
+metrics ::::: MIT License (MIT)
+tensorflow_model_optimization ::::: Apache Software License (Apache 2.0)
+contextlib2 ::::: Python Software Foundation License (PSF License)
+tensorflow_text ::::: Apache Software License (Apache 2.0)
+eval ::::: GNU General Public License v3 or later (GPLv3+) (GPLv3+)
+agents ::::: Apache Software License (Apache 2.0)
+controller ::::: MIT License
+rebar ::::: BSD License (BSD)
+gin ::::: UNKNOWN
+tensorflow_hub ::::: Apache Software License (Apache 2.0)
+base ::::: MIT License (MIT)
+fnmatch ::::: MIT License (MIT)
+networkx ::::: BSD License
+tasks ::::: MIT License
+agent ::::: MIT License (The MIT License (MIT))
+oauth2client ::::: Apache Software License (Apache 2.0)
+env_spec ::::: MIT License (MIT)
+Pillow ::::: Historical Permission Notice and Disclaimer (HPND) (HPND)
+policy ::::: Apache Software License (http://www.apache.org/licenses/LICENSE-2.0)
+sentencepiece ::::: Apache Software License (Apache)
+ast ::::: MIT
+gin-config ::::: Apache Software License (Apache 2.0)
+seqeval ::::: MIT License (MIT)
+optimizers ::::: MIT License (GNU General Public License v3.0)
+pytest-benchmark ::::: BSD License (BSD-2-Clause)
+pathlib2 ::::: MIT License (MIT)
+shelve ::::: Python Software Foundation License (Python Software Foundation License)
+tests ::::: UNKNOWN
+win_unicode_console ::::: MIT License (MIT)
+thefuck ::::: MIT
+pytest-docker-pexpect ::::: MIT
+wheel ::::: MIT License (MIT)
+twine ::::: Apache Software License
+pypandoc ::::: MIT License (MIT)
+flake8 ::::: MIT License (MIT)
+pytest-mock ::::: MIT License (MIT)
+colorama ::::: BSD License (BSD)
+fastentrypoints ::::: BSD
+pyte ::::: GNU Lesser General Public License v3 (LGPLv3)
+wsgiref ::::: PSF or ZPL
+ipaddress ::::: Python Software Foundation License (Python Software Foundation License)
+cx_Oracle ::::: BSD License (BSD License)
+asgiref ::::: BSD License (BSD)
+that ::::: BSD
+tblib ::::: BSD License (BSD-2-Clause)
+readline ::::: GNU General Public License (GPL) (GNU GPL)
+faulthandler ::::: BSD License (BSD (2-clause))
+geoip2 ::::: Apache Software License (Apache License, Version 2.0)
+pymemcache ::::: Apache Software License (Apache License 2.0)
+migrations ::::: MIT License (MIT)
+sqlparse ::::: BSD License (BSD-3-Clause)
+pywatchman ::::: BSD License (BSD)
+psycopg2 ::::: GNU Library or Lesser General Public License (LGPL) (LGPL with exceptions)
+ipdb ::::: BSD License (BSD)
+rlcompleter ::::: MIT License
+docutils ::::: BSD License, GNU General Public License (GPL), Python Software Foundation License, Public Domain (public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt))
+bpython ::::: MIT/X
+compileall ::::: Python Software Foundation License (PSFv2)
+pylibmc ::::: 3-clause BSD <http://www.opensource.org/licenses/bsd-license.php>
+sphinx ::::: BSD License (BSD)
+secrets ::::: PSF
+jinja2 ::::: BSD License (BSD-3-Clause)
+bcrypt ::::: Apache Software License (Apache License, Version 2.0)
+admin_scripts ::::: Apache Software License (Apache License, Version 2.0)
+argon2 ::::: CC0
+the ::::: MIT License (MIT)
+click ::::: BSD License (BSD-3-Clause)
+_pytest ::::: MIT License (MIT)
+markupsafe ::::: BSD License (BSD-3-Clause)
+gevent ::::: MIT License (MIT)
+blinker ::::: MIT License (MIT License)
+pallets_sphinx_themes ::::: BSD License (BSD-3-Clause)
+itsdangerous ::::: BSD License (BSD)
+packaging ::::: Apache Software License, BSD License (BSD-2-Clause or Apache-2.0)
+dotenv ::::: UNKNOWN
+cryptography ::::: Apache Software License, BSD License (BSD or Apache License, Version 2.0)
+toml ::::: MIT License (MIT)
+flask ::::: BSD License (BSD-3-Clause)
+werkzeug ::::: BSD License (BSD-3-Clause)
+greenlet ::::: MIT License (MIT License)
+keras_preprocessing ::::: MIT License (MIT)
+absl-py ::::: Apache Software License (Apache 2.0)
+tensorboard ::::: Apache Software License (Apache 2.0)
+pyyaml ::::: MIT License (MIT)
+pydotplus ::::: MIT License (UNKNOWN)
+attr ::::: MIT License (MIT)
+memory_profiler ::::: BSD License (BSD)
+pydot_ng ::::: MIT License (MIT)
+tf-nightly-gpu ::::: Apache Software License (Apache 2.0)
+tensorflow_estimator ::::: Apache Software License (Apache 2.0)
+portpicker ::::: Apache Software License (Apache 2.0)
+pydot ::::: MIT License (MIT)
+keras ::::: MIT License (MIT)
+pygments ::::: BSD License (BSD License)
+fixtures ::::: Apache Software License, BSD License (UNKNOWN)
+pytest_httpbin ::::: MIT License (MIT)
+httpie ::::: BSD License (BSD)
+requests_toolbelt ::::: Apache Software License (Apache 2.0)
+mailbox ::::: MIT
+pyquery ::::: BSD
+filecmp ::::: MIT License (MIT)
+simplejson ::::: Academic Free License (AFL), MIT License (MIT License)
+typing_extensions ::::: Python Software Foundation License (PSF)
+sphinx-gallery ::::: 3-clause BSD
+pyamg ::::: MIT License (MIT)
+numpydoc ::::: BSD License (BSD)
+wheelhouse_uploader ::::: OSI Approved (MIT)
+pyparsing ::::: MIT License (MIT License)
+GPy ::::: BSD License (BSD 3-clause)
+RBF ::::: Apache Software License (Apache License 2.0)
+annoy ::::: Apache License 2.0
+threadpoolctl ::::: BSD License
+scikit-learn ::::: OSI Approved (new BSD)
+fbpca ::::: OSI Approved (BSD License)
+catboost ::::: Apache License, Version 2.0
+nmslib ::::: B. Naidan, L. Boytsov, Yu. Malkov, B. Frederickson, D. Novak, et al.
+Image ::::: BSD
+lightgbm ::::: MIT License (The MIT License (Microsoft))
+scikit-image ::::: BSD License (Modified BSD)
+glmnet ::::: GNU General Public License v2 (GPLv2)
+sphinx_gallery ::::: 3-clause BSD
+joblib ::::: BSD License (BSD)
+seaborn ::::: BSD License (BSD (3-clause))
+botocore ::::: Apache Software License (Apache License 2.0)
+zstandard ::::: BSD License (BSD)
+twisted ::::: MIT
+pyftpdlib ::::: MIT License (MIT)
+cssselect ::::: BSD License (BSD)
+sybil ::::: MIT License (MIT)
+testfixtures ::::: MIT License (MIT)
+pydispatch ::::: BSD License (UNKNOWN)
+queuelib ::::: BSD License (BSD)
+brotli ::::: MIT License (MIT)
+mitmproxy ::::: MIT License (MIT)
+reppy ::::: MIT License (MIT)
+sphinx_rtd_theme ::::: MIT License (MIT)
+w3lib ::::: BSD License (BSD)
+service_identity ::::: MIT License (MIT)
+xmlrpc ::::: Copyright (c) Donald Stufft
+itemloaders ::::: BSD License (BSD)
+ptpython ::::: Jonathan Slenders
+zope ::::: Zope Public License (ZPL 2.1)
+robotexclusionrulesparser ::::: BSD License (http://creativecommons.org/licenses/BSD/)
+pstats ::::: Apache License, Version 2.0
+itemadapter ::::: BSD License (BSD)
+configparser ::::: MIT License
+pytest_flake8 ::::: BSD License (BSD License)
+path ::::: MIT License
+parsel ::::: BSD License (BSD)
+locationsharinglib ::::: MIT License (MIT)
+pyskyqhub ::::: MIT
+astral ::::: Apache-2.0
+pymata_express ::::: GNU Affero General Public License v3 or later (AGPLv3+) (GNU Affero General Public License v3 or later (AGPLv3+))
+pytrafikverket ::::: MIT
+tahoma_api ::::: Apache Software License
+pyads ::::: MIT License
+mitemp_bt ::::: MIT License (MIT)
+pylutron ::::: MIT License (MIT)
+elkm1_lib ::::: MIT License (MIT)
+py_nightscout ::::: MIT License (MIT)
+importlib-metadata ::::: Apache Software License
+aio_geojson_geonetnz_quakes ::::: Apache Software License
+Adafruit_SHT31 ::::: MIT License (MIT)
+pyeverlights ::::: MIT License (MIT)
+mcstatus ::::: Apache Software License
+coronavirus ::::: MIT License (MIT license)
+pyloopenergy ::::: MIT License (MIT)
+tank_utility ::::: MIT
+fortiosapi ::::: Apache Software License
+openwrt_luci_rpc ::::: Apache Software License (Apache Software License 2.0)
+evdev ::::: BSD License (Revised BSD License)
+spotcrime ::::: MIT License (MIT)
+nuimo ::::: MIT
+pyHS100 ::::: GPLv3
+arrow ::::: Apache Software License (Apache 2.0)
+zigpy ::::: GPL-3.0
+beewi_smartclim ::::: MIT License (MIT)
+influxdb_client ::::: MIT License
+pysaj ::::: Apache Software License
+contextvars ::::: Apache Software License (Apache License, Version 2.0)
+plexapi ::::: BSD License
+python-slugify ::::: MIT License (MIT)
+aioasuswrt ::::: MIT License (MIT)
+pymodbus ::::: BSD License (BSD-3-Clause)
+pyhomeworks ::::: MIT License
+pyoppleio ::::: MIT
+distro ::::: Apache Software License (Apache License, Version 2.0)
+bt_proximity ::::: Apache 2.0
+pizzapi ::::: MIT License (MIT)
+xbee_helper ::::: MIT License (MIT)
+pynuki ::::: GPL3
+simplepush ::::: MIT License (MIT)
+iota ::::: BSD License (BSD)
+batinfo ::::: GNU Lesser General Public License v3 (LGPLv3) (LGPLv3)
+aio_geojson_geonetnz_volcano ::::: Apache Software License
+aiokafka ::::: Apache Software License (Apache 2)
+pyuptimerobot ::::: MIT License
+pyzabbix ::::: GNU Library or Lesser General Public License (LGPL) (LGPL)
+onvif ::::: MIT
+aioswitcher ::::: MIT License (MIT)
+aiounifi ::::: MIT
+adb_shell ::::: Apache Software License
+emulated_roku ::::: MIT
+pywilight ::::: MIT License
+pyrecswitch ::::: GNU Affero General Public License v3 or later (AGPLv3+) (AGPLv3+)
+buienradar ::::: MIT License (MIT)
+noaa_coops ::::: GNU General Public License v3 (GPLv3) (GNU GPL)
+xmltodict ::::: MIT License (MIT)
+unifiled ::::: MIT License (MIT)
+librouteros ::::: GNU General Public License v2 (GPLv2) (GNU GPLv2)
+roonapi ::::: Apache Software License (Apache-2.0)
+linode ::::: MIT License (MIT)
+georss_qld_bushfire_alert_client ::::: Apache Software License
+aiolifx ::::: MIT License (MIT)
+xboxapi ::::: MIT License (MIT License)
+aioambient ::::: MIT License (MIT)
+jsonpath ::::: MIT License (MIT)
+lirc ::::: MIT License (MIT)
+motionblinds ::::: BSD License (MIT)
+hass_splunk ::::: MIT License
+pylibrespot_java ::::: MIT License
+prayer_times_calculator ::::: MIT
+ns_api ::::: MIT License (MIT)
+PyViCare ::::: Apache Software License
+serial ::::: MIT License (MIT)
+python_telnet_vlc ::::: GNU General Public License v3 (GPLv3)
+zigpy_znp ::::: GPL-3.0
+eliqonline ::::: 6d66
+wakeonlan ::::: MIT License (MIT)
+pyotp ::::: MIT License (MIT License)
+pyiss ::::: MIT
+pyrail ::::: MIT License
+todoist ::::: GPLv3
+pytradfri ::::: MIT
+lightwave ::::: MIT
+async_upnp_client ::::: Apache Software License (http://www.apache.org/licenses/LICENSE-2.0)
+miflora ::::: MIT License (MIT)
+colorthief ::::: BSD License (BSD)
+zigpy_xbee ::::: GPL-3.0
+fnvhash ::::: MIT License (UNKNOWN)
+watchdog ::::: Apache Software License (Apache License 2.0)
+blinkstick ::::: LICENSE.txt
+pyrepetier ::::: MIT
+ciso8601 ::::: MIT License (MIT)
+minio ::::: Apache Software License (Apache License 2.0)
+pyhiveapi ::::: MIT License (MIT)
+jsonrpc_base ::::: BSD License (BSD)
+aiodns ::::: MIT License
+jose ::::: BSD License (UNKNOWN)
+xfinity_gateway ::::: MIT License
+rflink ::::: MIT License (MIT)
+pywebpush ::::: MPL2
+pyairvisual ::::: MIT License (MIT)
+nest ::::: UNKNOWN
+aiopvpc ::::: MIT License (MIT)
+zigpy_deconz ::::: GPL-3.0
+pysmarty ::::: MIT License
+uscisstatus ::::: MIT
+arris_tg2492lg ::::: MIT License
+aqualogic ::::: MIT License (MIT)
+aiokef ::::: MIT License (MIT)
+aioshelly ::::: Apache License 2.0
+RestrictedPython ::::: Zope Public License (ZPL 2.1)
+twinkly_client ::::: Apache Software License
+pymusiccast ::::: MIT
+voluptuous_serialize ::::: Apache License 2.0
+pysmappee ::::: MIT License (MIT)
+vultr ::::: The MIT License (MIT)
+axis ::::: MIT
+shodan ::::: MIT License
+ciscomobilityexpress ::::: MIT License (MIT license)
+quantum_gateway ::::: MIT License
+hdate ::::: GNU General Public License v3 or later (GPLv3+) (GPL-3.0-or-later)
+datapoint ::::: GPLv3
+keyring ::::: MIT License, Python Software Foundation License
+bizkaibus ::::: MIT License (MIT)
+gogogate2_api ::::: MIT License (MIT)
+transmissionrpc ::::: MIT License (UNKNOWN)
+pysesame2 ::::: MIT License (MIT)
+websockets ::::: BSD License (BSD)
+ndms2_client ::::: MIT License
+btlewrap ::::: MIT License (MIT)
+horimote ::::: MIT
+sharkiqpy ::::: MIT License (MIT)
+homeassistant ::::: Apache Software License (Apache License 2.0)
+pychannels ::::: The MIT License
+pyruckus ::::: MIT
+sentry_sdk ::::: BSD License (BSD)
+smbus ::::: GPLv2
+pyisy ::::: Apache Software License (Apache License 2.0)
+stookalert ::::: MIT License (MIT)
+samsungtvws ::::: MIT License (MIT)
+oauthlib ::::: OSI Approved, BSD License (BSD)
+pyeconet ::::: MIT
+tp_connected ::::: MIT License (MIT)
+pydeconz ::::: MIT
+aioguardian ::::: MIT License (MIT)
+adguardhome ::::: MIT License (MIT license)
+keba_kecontact ::::: MIT License
+socialbladeclient ::::: MIT
+spotipy ::::: LICENSE.md
+pythinkingcleaner ::::: MIT
+rova ::::: MIT License
+yeelightsunflower ::::: MIT License (MIT)
+timeout_decorator ::::: MIT License
+cookiecutter ::::: BSD License (BSD)
+fastapi ::::: MIT License
+cffi ::::: MIT License (MIT)
+progress ::::: ISC License (ISCL) (ISC)
+keras2onnx ::::: MIT License (MIT License)
+Jinja2 ::::: BSD License (BSD-3-Clause)
+argon2-cffi ::::: MIT License (MIT)
+html5lib ::::: MIT License (MIT License)
+pycparser ::::: BSD License (BSD)
+distiller ::::: LICENSE.txt
+nbconvert ::::: BSD License (BSD)
+tqdm ::::: MIT License, Mozilla Public License 2.0 (MPL 2.0) (MPLv2.0, MIT Licences)
+ipykernel ::::: BSD License (BSD)
+pandocfilters ::::: BSD License (BSD-3-Clause)
+distlib ::::: Python Software Foundation License (Python license)
+CacheControl ::::: Apache Software License
+ipywidgets ::::: BSD License (BSD)
+retrying ::::: Apache Software License (Apache 2.0)
+emoji ::::: BSD License (New BSD)
+parameterized ::::: BSD License (FreeBSD)
+numexpr ::::: MIT
+mlflow ::::: Apache License 2.0
+pyrsistent ::::: MIT License (MIT)
+msgpack ::::: Apache Software License (Apache 2.0)
+pyaml ::::: WTFPL
+torch ::::: BSD License (BSD-3)
+PyYAML ::::: MIT License (MIT)
+kiwisolver ::::: BSD License (BSD)
+jupyter-console ::::: BSD License (BSD)
+jax ::::: Apache-2.0
+optuna ::::: MIT License
+jupyter-core ::::: BSD License (BSD)
+wget ::::: Public Domain (Public Domain)
+onnx ::::: MIT
+py-rouge ::::: Apache License 2.0
+nbformat ::::: BSD License (BSD)
+elasticsearch ::::: Apache Software License (Apache License, Version 2.0)
+torchvision ::::: BSD
+lockfile ::::: MIT License
+pyarrow ::::: Apache Software License (Apache License, Version 2.0)
+jupyterlab-pygments ::::: BSD
+comet_ml ::::: Other/Proprietary License (Proprietary)
+rouge-score ::::: Apache Software License
+pytoml ::::: MIT License (MIT)
+Send2Trash ::::: BSD License (BSD License)
+pydantic ::::: MIT License (MIT)
+faiss-cpu ::::: MIT
+transformers ::::: Apache Software License (Apache)
+jieba ::::: MIT License (MIT)
+emmental ::::: MIT
+bleach ::::: Apache Software License (Apache Software License)
+getopt ::::: ISC License (ISCL) (License :: OSI Approved :: ISC License (ISCL))
+xxhash ::::: BSD License (BSD)
+ray ::::: Apache 2.0
+protobuf ::::: 3-Clause BSD License
+faiss ::::: BSD
+torchtext ::::: BSD
+tornado ::::: Apache Software License (http://www.apache.org/licenses/LICENSE-2.0)
+jupyter ::::: BSD License (BSD)
+gitpython ::::: BSD License
+terminado ::::: BSD License
+importlib_metadata ::::: Apache Software License
+jupyter-client ::::: BSD License (BSD)
+torch_scatter ::::: MIT
+future ::::: OSI Approved, MIT License (MIT)
+mistune ::::: BSD License (BSD)
+py3nvml ::::: BSD License (BSD)
+unidic ::::: MIT License (MIT)
+sentence_splitter ::::: GNU Lesser General Public License v3 (LGPLv3) (LGPLv3)
+rouge_score ::::: Apache Software License
+spacy ::::: MIT License (MIT)
+cycler ::::: BSD
+linecache ::::: Python Software Foundation License (UNKNOWN)
+appdirs ::::: MIT License (MIT)
+ipaddr ::::: Apache Software License (Apache License, Version 2.0)
+starlette ::::: BSD License (BSD)
+filelock ::::: Public Domain (Public Domain <http://unlicense.org>)
+pytorch-lightning ::::: Apache Software License (Apache-2.0)
+qtconsole ::::: BSD License (BSD)
+widgetsnbextension ::::: BSD License (BSD)
+pyzmq ::::: BSD License, GNU Library or Lesser General Public License (LGPL) (LGPL+BSD)
+streamlit ::::: Apache 2
+apex ::::: MIT License (MIT)
+entrypoints ::::: MIT License
+prometheus-client ::::: Apache Software License (Apache Software License 2.0)
+distillation ::::: GNU Lesser General Public License v3 (LGPLv3)
+nbclient ::::: BSD License (BSD)
+ftfy ::::: MIT License (MIT)
+jsonschema ::::: MIT License
+pytorch_lightning ::::: Apache Software License (Apache-2.0)
+async-generator ::::: Apache Software License, MIT License (MIT -or- Apache License 2.0)
+nest-asyncio ::::: BSD License (BSD)
+fire ::::: Apache Software License (Apache Software License)
+attrs ::::: MIT License (MIT)
+notebook ::::: BSD License (BSD)
+defusedxml ::::: Python Software Foundation License (PSFL)
+MarkupSafe ::::: BSD License (BSD-3-Clause)
+ptvsd ::::: Eclipse Public License 2.0 (EPL-2.0), MIT License (MIT)
+src ::::: Apache 2.0
+dill ::::: BSD License (3-clause BSD)
+tensorboardX ::::: MIT License (MIT license)
+azureml ::::: MIT License (MIT License)
+uvicorn ::::: BSD License (BSD)
+webencodings ::::: BSD License (BSD)
+flax ::::: Apache Software License
+callbacks ::::: LICENSE.txt
+fugashi ::::: MIT License (MIT)
+pythainlp ::::: Apache Software License (Apache Software License 2.0)
+rouge ::::: LICENCE.txt
+tokenizers ::::: Apache Software License (Apache License 2.0)
+QtPy ::::: MIT License (MIT)
+regex ::::: Apache Software License (Apache Software License)
+sacrebleu ::::: Apache Software License (Apache License 2.0)
+wandb ::::: MIT License (MIT license)
+testpath ::::: BSD License
+unidic_lite ::::: MIT License
+you_get ::::: MIT License (MIT)
+picamera ::::: BSD License (BSD License)
+dlib ::::: Boost Software License
+face_recognition ::::: MIT License (MIT license)
+face_recognition_models ::::: MIT License (MIT license)
+plaidml ::::: Apache Software License (https://www.apache.org/licenses/LICENSE-2.0)
+pip ::::: MIT License (MIT)
+pywin32 ::::: Python Software Foundation License (PSF)
+scripts ::::: MIT License (MIT)
+ffmpy ::::: MIT License (MIT)
+pynvx ::::: MIT License (MIT Licence)
+fastcluster ::::: BSD License, GNU General Public License v2 (GPLv2) (BSD <http://opensource.org/licenses/BSD-2-Clause>)
+imageio ::::: BSD License (BSD-2-Clause)
+imageio-ffmpeg ::::: BSD License (BSD-2-Clause)
+lib ::::: MIT
+pynvml ::::: BSD License (BSD)
+imageio_ffmpeg ::::: BSD License (BSD-2-Clause)
+nvidia-ml-py3 ::::: BSD License (BSD)
+plaidml-keras ::::: Apache Software License (https://www.apache.org/licenses/LICENSE-2.0)
+shadowsocks ::::: Apache Software License (http://www.apache.org/licenses/LICENSE-2.0)
+nose ::::: GNU Library or Lesser General Public License (LGPL) (GNU LGPL)
+cpplint ::::: Freely Distributable (BSD-3-Clause)
+dnspython ::::: ISC License (ISCL) (ISC)
+moto ::::: Apache Software License (Apache)
+forbiddenfruit ::::: GNU General Public License v3 or later (GPLv3+), MIT License
+coverage ::::: Apache Software License (Apache 2.0)
+jsonpatch ::::: BSD License (Modified BSD License)
+pyopenssl ::::: Apache Software License (Apache License, Version 2.0)
+cbor2 ::::: MIT License (MIT)
+amazon_kclpy-ext ::::: Amazon Software License
+boto3 ::::: Apache Software License (Apache License 2.0)
+crontab ::::: GNU Lesser General Public License v2 (LGPLv2), GNU Lesser General Public License v3 (LGPLv3), GNU Library or Lesser General Public License (LGPL) (GNU LGPL v2.1)
+h11 ::::: MIT License (MIT)
+flask_swagger ::::: MIT
+docker ::::: Apache Software License (Apache License 2.0)
+yappi ::::: MIT License (MIT)
+docopt ::::: MIT License (MIT)
+localstack ::::: Apache Software License (Apache License 2.0)
+pympler ::::: Apache Software License (Apache License, Version 2.0)
+flask_cors ::::: MIT License (MIT)
+localstack_ext ::::: Apache Software License
+airspeed ::::: BSD License (BSD)
+amazon_kclpy ::::: Amazon Software License
+cachetools ::::: MIT License (MIT)
+boto ::::: MIT License (MIT)
+jsonpath_rw ::::: Apache Software License (Apache 2.0)
+requests-aws4auth ::::: MIT License (MIT License)
+quart ::::: MIT License (MIT)
+localstack_client ::::: Apache Software License (Apache License 2.0)
+requests_aws4auth ::::: MIT License (MIT License)
+hypercorn ::::: MIT License (MIT)
+patterns ::::: BSD License (BSD)
+github ::::: BSD License (BSD)
+httpx ::::: BSD License (BSD)
+peewee ::::: MIT License (MIT License)
+email_validator ::::: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication (CC0 (copyright waived))
+async_exit_stack ::::: Python Software Foundation License (Python Software Foundation License)
+couchbase ::::: Apache Software License (Apache License 2.0)
+passlib ::::: BSD
+multipart ::::: MIT License (MIT)
+async_generator ::::: Apache Software License, MIT License (MIT -or- Apache License 2.0)
+orjson ::::: Apache Software License, MIT License (Apache-2.0 OR MIT)
+sqlalchemy ::::: MIT License (MIT)
+typer ::::: MIT License
+graphene ::::: MIT
+databases ::::: BSD License (BSD)
+cityscapesscripts ::::: https://github.com/mcordts/cityscapesScripts/blob/master/license.txt
+python-Levenshtein ::::: GNU General Public License v2 or later (GPLv2+) (GPL)
+rapidfuzz ::::: MIT License
+fuzzywuzzy ::::: GNU General Public License v2 (GPLv2) (GPLv2)
+PyICU ::::: OSI Approved (MIT)
+polyglot ::::: GNU General Public License v3 or later (GPLv3+) (GPLv3)
+pycld2 ::::: Apache Software License (Apache2)
+globals ::::: MIT License (MIT)
+adapter ::::: MIT
+dateutils ::::: BSD License
+routing ::::: BSD License (BSD)
+langdetect ::::: Apache Software License (MIT)
+cache ::::: MIT License (MIT)
+fmt ::::: BSD License (The BSD 3-Clause License)
+ansiwrap ::::: Apache Software License (Apache License 2.0)
+limits ::::: MIT License (MIT)
+app ::::: MIT License
+buttons ::::: MIT License (MIT)
+options ::::: Apache Software License (Apache License 2.0)
+frontend ::::: GNU General Public License v3 or later (GPLv3+) (GNU GENERAL PUBLIC LICENSE)
+colored ::::: MIT License
+markdown ::::: BSD License (BSD License)
+compose ::::: 0BSD (BSD Zero Clause License)
+PySocks ::::: BSD
+backports.shutil_get_terminal_size ::::: MIT License (MIT)
+texttable ::::: MIT License (MIT)
+cached-property ::::: BSD License (BSD)
+ddt ::::: MIT License
+dockerpty ::::: Apache Software License (Apache 2.0)
+docker-pycreds ::::: Apache Software License (Apache License 2.0)
+python-dotenv ::::: BSD License
+cached_property ::::: BSD License (BSD)
+websocket-client ::::: BSD License (BSD)
+paramiko ::::: GNU Library or Lesser General Public License (LGPL) (LGPL)
+pyqrcode ::::: BSD License (BSD)
+itchat ::::: MIT License (MIT)
+gd ::::: MIT License
+pdfrw ::::: MIT License (MIT)
+websocket ::::: MIT License (UNKNOWN)
+freegames ::::: Apache Software License (Apache 2.0)
+Bird ::::: OSI Approved (BSD (3-clause))
+pafy ::::: GNU Lesser General Public License v3 (LGPLv3) (LGPLv3)
+pyautogui ::::: BSD License (BSD)
+apiclient ::::: MIT License (MIT)
+fpdf ::::: GNU Lesser General Public License v3 (LGPLv3) (LGPLv3+)
+xlrd ::::: BSD License (BSD)
+googletrans ::::: Freeware (MIT)
+mysql ::::: GPL
+Background ::::: ISC
+sound ::::: BSD License (BSD-3)
+apscheduler ::::: MIT License (MIT)
+speech_recognition ::::: BSD License (BSD)
+backend ::::: MIT
+nmap ::::: MIT License (MIT License)
+gtts ::::: MIT License (MIT)
+newspaper ::::: MIT
+tabula ::::: Apache Software License (Apache Software License)
+mutagen ::::: GNU General Public License v2 or later (GPLv2+) (GPL-2.0-or-later)
+wikipedia ::::: MIT License (MIT)
+tweepy ::::: MIT License (MIT)
+ujson ::::: BSD License
+twilio ::::: MIT License
+Tubes ::::: MIT
+pyttsx3 ::::: GNU General Public License v3 (GPLv3)
+pyjokes ::::: BSD License (BSD License)
+playsound ::::: MIT License (MIT)
+xlwt ::::: BSD License (BSD)
+pytube ::::: MIT License (MIT)
+fileinfo ::::: GNU General Public License (GPL) (GNU General Public Licence v3 (GPLv3))
+ccxt ::::: MIT License (MIT)
+geocoder ::::: Apache Software License (The MIT License)
+flask_ask ::::: Apache Software License (Apache 2.0)
+firebase_admin ::::: Apache Software License (Apache License 2.0)
+win10toast ::::: MIT License (BSD)
+mechanize ::::: BSD License (BSD)
+httplib2 ::::: MIT License (MIT)
+netaddr ::::: BSD License, MIT License (BSD License)
+ansible ::::: GNU General Public License v3 or later (GPLv3+) (GPLv3+)
+linode_api4 ::::: BSD License (BSD 3-Clause License)
+Sphinx ::::: BSD License (BSD)
+mypy-extensions ::::: MIT License (MIT License)
+Babel ::::: BSD License (BSD)
+testapp ::::: UNKNOWN
+aiopg ::::: BSD License (BSD)
+snowballstemmer ::::: BSD License (BSD-3-Clause)
+tox ::::: MIT License (MIT)
+pyflakes ::::: MIT License (MIT)
+sphinxcontrib-devhelp ::::: BSD License (BSD)
+not ::::: MIT
+sphinxcontrib-htmlhelp ::::: BSD License (BSD)
+sphinxcontrib-qthelp ::::: BSD License (BSD)
+imagesize ::::: MIT License (MIT)
+runpy ::::: Python Software Foundation License (PSF)
+pluggy ::::: MIT License (MIT license)
+pycodestyle ::::: MIT License (Expat license)
+pycares ::::: MIT License
+sphinx-rtd-theme ::::: MIT License (MIT)
+black ::::: MIT License (MIT)
+pathspec ::::: Mozilla Public License 2.0 (MPL 2.0) (MPL 2.0)
+sphinxcontrib-applehelp ::::: BSD License (BSD)
+pycurl ::::: GNU Library or Lesser General Public License (LGPL), MIT License (LGPL/MIT)
+sphinxcontrib-serializinghtml ::::: BSD License (BSD)
+virtualenv ::::: MIT License (MIT)
+thor ::::: MIT License (MIT)
+sphinxcontrib-asyncio ::::: Apache Software License (Apache 2)
+typing-extensions ::::: Python Software Foundation License (PSF)
+mypy ::::: MIT License (MIT License)
+sphinxcontrib-jsmath ::::: BSD License (BSD)
+terminaltables ::::: MIT License (MIT)
+cvxopt ::::: GNU General Public License v3 (GPLv3) (GNU GPL version 3)
+progressbar33 ::::: BSD License, GNU Library or Lesser General Public License (LGPL) (LICENSE.txt)
+mlfromscratch ::::: MIT
+progressbar ::::: BSD License, GNU Library or Lesser General Public License (LGPL) (LICENSE.txt)
+python-coveralls ::::: Apache Software License (Apache License 2.0)
+bst ::::: MIT
+recommonmark ::::: MIT License (MIT)
+polynomial ::::: BSD License (bsd-2-clause)
+pytest-cov ::::: BSD License (MIT)
+pytest-pythonpath ::::: MIT License (MIT)
+algorithms ::::: MIT
+tree ::::: MIT License (MIT)
+gcd ::::: MIT License (MIT license)
+codecov ::::: Apache Software License (Apache 2.0)
+hypothesis ::::: Mozilla Public License 2.0 (MPL 2.0) (MPL v2)
+Levenshtein ::::: GNU General Public License v2 or later (GPLv2+) (GPL)
+termcolor ::::: MIT License (MIT)
+pystache ::::: MIT License (MIT)
+gunicorn ::::: MIT License (MIT)
+xlsxwriter ::::: BSD License (BSD)
+sqlalchemy_searchable ::::: BSD License (BSD)
+pymssql ::::: GNU Library or Lesser General Public License (LGPL) (LGPL)
+flask_migrate ::::: MIT License (MIT)
+SQLAlchemy-Searchable ::::: BSD License (BSD)
+rq ::::: BSD License (BSD)
+rq_scheduler ::::: MIT License (MIT)
+Flask-OAuthLib ::::: OSI Approved, BSD License (BSD)
+flask_login ::::: MIT License (MIT)
+Flask ::::: BSD License (BSD-3-Clause)
+Flask-Migrate ::::: MIT License (MIT)
+flask_wtf ::::: BSD License (BSD)
+alembic ::::: MIT License (MIT)
+phoenixdb ::::: Apache 2
+pyOpenSSL ::::: Apache Software License (Apache License, Version 2.0)
+flask_mail ::::: BSD License (BSD)
+azure ::::: MIT License (MIT License)
+pysaml2 ::::: Apache Software License (Apache License Version 2.0)
+snowflake ::::: BSD License (bsd)
+qds_sdk ::::: Apache Software License (Apache License 2.0)
+pydgraph ::::: Apache Software License (Apache License, Version 2.0)
+requests_aws_sign ::::: ISC License (ISCL) (ISC)
+flask_limiter ::::: MIT License (MIT)
+impala ::::: MIT License (MIT)
+disposable_email_domains ::::: MIT License (MIT)
+pyexasol ::::: MIT License
+pyathena ::::: MIT License (MIT)
+flask-talisman ::::: Apache Software License (Apache Software License)
+pypd ::::: MIT
+maxminddb ::::: Apache Software License (Apache License, Version 2.0)
+user-agents ::::: MIT License (MIT)
+pymapd ::::: Apache Software License (Apache Software License)
+pyhive ::::: Apache Software License (Apache License, Version 2.0)
+sqlalchemy_utils ::::: BSD License (BSD)
+ldap3 ::::: GNU Lesser General Public License v3 (LGPLv3) (LGPL v3)
+ua-parser ::::: Apache Software License (Apache 2.0)
+gspread ::::: MIT License (MIT)
+flask_talisman ::::: Apache Software License (Apache Software License)
+jwt ::::: Apache Software License
+parsedatetime ::::: Apache Software License (Apache License 2.0)
+pycrypto ::::: Public Domain (Public domain)
+flask_oauthlib ::::: OSI Approved, BSD License (BSD)
+sshtunnel ::::: MIT License (MIT)
+memsql ::::: MIT License (LICENSE.txt)
+ibm_db ::::: Apache Software License (Apache License 2.0)
+Flask-Login ::::: MIT License (MIT)
+freezegun ::::: Apache Software License (Apache 2.0)
+SQLAlchemy-Utils ::::: BSD License (BSD)
+SQLAlchemy ::::: MIT License (MIT)
+vertica_python ::::: Apache Software License (Apache License 2.0)
+Flask-WTF ::::: BSD License (BSD)
+user_agents ::::: MIT License (MIT)
+supervisor_checks ::::: MIT License (MIT)
+semver ::::: BSD License (BSD)
+flask_restful ::::: BSD License (BSD)
+Flask-Limiter ::::: MIT License (MIT)
+atsd_client ::::: Apache Software License (Apache 2.0)
+thrift ::::: Apache Software License (Apache Software License, Version 2)
+statsd ::::: MIT License (MIT)
+simple_salesforce ::::: Apache Software License (Apache 2.0)
+pydruid ::::: Apache Software License (Apache License, Version 2.0)
+flask-mail ::::: BSD License (BSD)
+dql ::::: MIT License (MIT)
+influxdb ::::: MIT License (MIT License)
+somewhere ::::: MIT License (MIT)
+dynamo3 ::::: MIT License (MIT)
+rq-scheduler ::::: MIT License (MIT)
+wtforms ::::: BSD License (BSD-3-Clause)
+aniso8601 ::::: BSD License
+pyodbc ::::: MIT License (MIT)
+PyJWT ::::: MIT License (MIT)
+supervisor ::::: BSD-derived (http://www.repoze.org/LICENSE.txt)
+Flask-SQLAlchemy ::::: BSD License (BSD-3-Clause)
+funcy ::::: BSD License (BSD)
+Flask-RESTful ::::: BSD License (BSD)
+flask_sqlalchemy ::::: BSD License (BSD-3-Clause)
+binary_heap ::::: GNU General Public License v3.0
+trie_ ::::: MIT License (MIT)
+pygraphviz ::::: BSD License (BSD)
+netifaces ::::: MIT License (MIT License)
+couchdb ::::: BSD License (BSD)
+pySMART.smartx ::::: GNU GPLv2
+kafka-python ::::: Apache Software License (Apache License 2.0)
+pymdstat ::::: MIT License (MIT)
+pika ::::: BSD License (BSD)
+kafka ::::: Apache Software License (Apache License 2.0)
+bottle ::::: MIT License (MIT)
+pySMART ::::: GNU LGPLv2.1.html
+potsdb ::::: GNU GPL
+prometheus_client ::::: Apache Software License (Apache Software License 2.0)
+scandir ::::: BSD License (New BSD License)
+py-cpuinfo ::::: MIT License (MIT)
+pysnmp ::::: BSD License (BSD)
+glances ::::: GNU Lesser General Public License v3 (LGPLv3) (LGPLv3)
+cassandra-driver ::::: Apache Software License
+ConfigParser ::::: MIT License
+pygal ::::: GNU Lesser General Public License v3 or later (LGPLv3+) (GNU LGPL v3+)
+paho-mqtt ::::: OSI Approved (Eclipse Public License v1.0 / Eclipse Distribution License v1.0)
+zeroconf ::::: GNU Lesser General Public License v2 (LGPLv2) (LGPL)
+sparklines ::::: GNU General Public License (GPL) (GPL)
+bernhard ::::: Apache Software License (ASF2.0)
+zmq ::::: BSD
+pymake ::::: MIT License (MIT)
+argopt ::::: Mozilla Public License 2.0 (MPL 2.0)
+setuptools_scm ::::: MIT License (MIT)
+rich ::::: MIT License (MIT)
+flask_basicauth ::::: BSD License (BSD)
+resource ::::: MIT
+geventhttpclient ::::: LICENSE-MIT
+configargparse ::::: MIT License (MIT)
+locust ::::: MIT License (MIT)
+tokenization ::::: MIT License (MIT)
+pyglet ::::: BSD License (BSD)
+cloudpickle ::::: BSD License (BSD 3-Clause License)
+_policies ::::: GNU General Public License v3 or later (GPLv3+) (GNU General Public License v3 or later (GPLv3+))
+lz4 ::::: BSD License
+version ::::: MIT
+Box2D ::::: zlib
+typed_ast ::::: Apache License 2.0
+pytest-cases ::::: BSD License (BSD 3-Clause)
+slow ::::: GNU General Public License (GPL) (UNKNOWN)
+mypy_extensions ::::: MIT License (MIT License)
+aiohttp_cors ::::: Apache Software License (Apache License, Version 2.0)
+hypothesmith ::::: Mozilla Public License 2.0 (MPL 2.0) (MPL 2.0)
+fast ::::: BSD License (BSD)
+pgen2 ::::: BSD License
+spleeter ::::: MIT License (MIT)
+librosa ::::: ISC License (ISCL) (ISC)
+musdb ::::: MIT
+norbert ::::: MIT License
+ffmpeg ::::: MIT Licence
+importlib_resources ::::: Apache Software License (Apache2)
+museval ::::: MIT
+projects ::::: MIT License (MIT)
+easywebdav ::::: ISC
+pyspider ::::: Apache Software License (Apache License, Version 2.0)
+rediscluster ::::: MIT License (Copyright (c) 2012 Salimane Adjao Moustapha)
+httpbin ::::: MIT License (MIT)
+kombu ::::: BSD License (BSD)
+umsgpack ::::: BSD License (BSD)
+amqp ::::: BSD License (BSD)
+redis-py-cluster ::::: MIT License (MIT)
+wsgidav ::::: MIT License (MIT)
+u-msgpack-python ::::: MIT License (MIT)
+mysql-connector-python ::::: GNU General Public License (GPL) (GNU GPLv2 (with FOSS License Exception))
+tabulate ::::: MIT License (MIT)
+yacs ::::: Apache Software License
+fvcore ::::: Apache 2.0
+av ::::: BSD License (BSD)
+shapely ::::: BSD License (BSD)
+predictor ::::: MIT
+hydra ::::: MIT License (MIT License)
+iopath ::::: MIT licensed, as found in the LICENSE file
+backoff ::::: MIT License (MIT)
+docker-compose ::::: Apache Software License (Apache License 2.0)
+fields ::::: BSD License (BSD)
+pyjq ::::: MIT License (MIT License)
+pysocks ::::: BSD
+numba ::::: BSD License (BSD)
+babel ::::: BSD License (BSD)
+timezonefinder ::::: MIT License (MIT licence)
+geopy ::::: MIT License (MIT)
+constants ::::: BSD License (BSD)
+translations ::::: BSD License (MIT License)
+pylru ::::: GNU General Public License (GPL)
+cyrtranslit ::::: MIT License (MIT)
+grapheme ::::: MIT
+wxpy ::::: MIT License (MIT)
+prompt_toolkit ::::: BSD License
+hglib ::::: MIT License (MIT)
+unittest2 ::::: BSD License (UNKNOWN)
+imaplib ::::: UNKNOWN
+colormath ::::: BSD License (BSD)
+powerline ::::: GPLv3
+i3ipc ::::: BSD License (BSD)
+pygit2 ::::: GPLv2 with linking exception
+vim ::::: MIT Licence
+MyQR ::::: GNU General Public License v3 (GPLv3) (GPLv3)
+ffmpy3 ::::: MIT License (MIT)
+faker ::::: MIT License (MIT License)
+random2 ::::: Python Software Foundation License (Python 2.1.1)
+ukpostcodeparser ::::: MIT
+validators ::::: MIT License (MIT)
+text_unidecode ::::: Artistic License, GNU General Public License (GPL), GNU General Public License v2 or later (GPLv2+) (Artistic License)
+automat ::::: MIT License (MIT)
+autobahn ::::: MIT License (MIT License)
+humanize ::::: MIT License (MIT)
+spake2 ::::: MIT License (MIT)
+hkdf ::::: BSD License (UNKNOWN)
+txtorcon ::::: MIT License (MIT)
+cx_Freeze ::::: Python Software Foundation License (Python Software Foundation License)
+wormhole ::::: MIT
+noise ::::: MIT License (UNKNOWN)
+versioneer ::::: public domain
+sphinx-intl ::::: BSD License
+nbsphinx ::::: MIT License (MIT)
+pydata-sphinx-theme ::::: BSD License (BSD)
+sphinx-panels ::::: MIT License (MIT)
+myst_parser ::::: MIT License (MIT)
+APScheduler ::::: MIT License (MIT)
+handler ::::: UNKNOWN
+PyExecJS ::::: MIT License (MIT License)
+api ::::: MIT
+fetcher ::::: New BSD License
+db ::::: MIT
+helper ::::: BSD License (BSD)
+facenet ::::: MIT
+face ::::: BSD
+tmp ::::: GPL
+requests_file ::::: Apache Software License (Apache 2.0)
+pyppeteer ::::: MIT License (MIT)
+parse ::::: BSD License
+requests_html ::::: MIT License (MIT)
+s3transfer ::::: Apache Software License (Apache License 2.0)
+coveralls ::::: MIT License (MIT)
+placebo ::::: Apache Software License (Apache License 2.0)
+hjson ::::: Academic Free License (AFL), MIT License (MIT License)
+kappa ::::: Apache Software License (Apache License 2.0)
+nose-timer ::::: MIT License (MIT)
+zappa ::::: Apache Software License (MIT License)
+text-unidecode ::::: Artistic License, GNU General Public License (GPL), GNU General Public License v2 or later (GPLv2+) (Artistic License)
+wsgi-request-logger ::::: BSD License (BSD)
+argcomplete ::::: Apache Software License (Apache Software License)
+pip-tools ::::: BSD License (BSD)
+jmespath ::::: MIT License (MIT)
+slugify ::::: UNKNOWN
+durationpy ::::: MIT
+troposphere ::::: BSD License (New BSD license)
+cfn-flip ::::: Apache2
+blah ::::: UNKNOWN
+toto ::::: MIT License (MIT License)
+module ::::: GNU General Public License (GPL)
+dingtalkchatbot ::::: MIT
+pyee ::::: MIT License (MIT)
+DingtalkChatbot ::::: MIT
+fake-useragent ::::: Apache Software License
+lightpush ::::: MIT License (MIT)
+pyppeteer-box ::::: MIT License (MIT license)
+requests-html ::::: MIT License (MIT)
+Flask-JWT-Extended ::::: MIT License (MIT)
+Werkzeug ::::: BSD License (BSD-3-Clause)
+flask_jwt_extended ::::: MIT License (MIT)
+Click ::::: BSD License (BSD-3-Clause)
+glob2 ::::: BSD License (BSD)
+MPI ::::: MIT License
+retro ::::: BSD License (Revised BSD License)
+mpi4py ::::: BSD License (BSD)
+cython ::::: Apache Software License (Apache)
+flashlight ::::: MIT
+vizseq ::::: MIT
+omegaconf ::::: BSD License
+gossip ::::: BSD3
+sphinx-argparse ::::: MIT License (MIT)
+subword_nmt ::::: MIT License (MIT)
+indicnlp ::::: GNU General Public License v3 (GPLv3)
+torchaudio ::::: BSD License
+editdistance ::::: MIT License
+theano ::::: BSD License (BSD)
+lasagne ::::: MIT License (MIT)
+Theano ::::: BSD License (BSD)
+pygtrie ::::: Apache Software License (Apache-2.0)
+gooey ::::: MIT License (MIT)
+mackup ::::: GNU General Public License v3 or later (GPLv3+) (GPLv3)
+_common ::::: MIT License (UNKNOWN)
+schema ::::: MIT License (MIT)
+unidiff ::::: MIT
+_extraction ::::: MIT License (LICENSE.txt)
+twython ::::: MIT License (MIT)
+pint ::::: BSD License (BSD)
+chatterbot ::::: BSD License (BSD)
+tushare ::::: BSD License (BSD)
+complex ::::: MIT License (MIT)
+some ::::: European Union Public Licence 1.2 (EUPL 1.2) (EUPL-1.2)
+typogrify ::::: BSD License (BSD)
+feedgenerator ::::: BSD License
+feedparser ::::: BSD License (BSD-2-Clause)
+invoke ::::: BSD License (BSD)
+pelican ::::: Other/Proprietary License (AGPLv3)
+livereload ::::: BSD License (BSD)
+smartypants ::::: BSD License (BSD License)
+tzlocal ::::: MIT License (MIT)
+gcn ::::: MIT License
+trimesh ::::: MIT License (MIT)
+torch_sparse ::::: MIT
+dgl ::::: Apache Software License (APACHE)
+community ::::: MIT
+gdist ::::: GPL 2
+points ::::: MIT License (MIT)
+rdflib ::::: BSD License (BSD-3-Clause)
+torch_spline_conv ::::: MIT
+torch_cluster ::::: MIT
+schnetpack ::::: MIT
+asap ::::: BSD License (BSD)
+ogb ::::: MIT License (MIT)
+openmesh ::::: BSD 3-Clause
+ase ::::: GNU Lesser General Public License v2 or later (LGPLv2+) (LGPLv2.1+)
+citation ::::: MIT
+auth ::::: Apache Software License (Apache 2.0)
+rtyaml ::::: CC0 (copyright waived)
+mfa ::::: UNKNOWN
+qrcode ::::: BSD License (BSD)
+backup ::::: MIT License
+modgrammar ::::: BSD License (BSD)
+postfix_mta_sts_resolver ::::: MIT License (MIT)
+exclusiveprocess ::::: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication (CC0 (copyright waived))
+dnspython3 ::::: Freeware (http://www.dnspython.org/LICENSE)
+b2sdk ::::: MIT License (MIT)
+arguments ::::: GNU Library or Lesser General Public License (LGPL) (GPL)
+dask ::::: BSD
+networking ::::: BSD License (BSD 3-clause "New" or "Revised License")
+msgpack-numpy ::::: BSD License (BSD)
+msgpack_numpy ::::: BSD License (BSD)
+pygit ::::: GNU Library or Lesser General Public License (LGPL) (LGPL)
+toolz ::::: BSD License (BSD)
+face-alignment ::::: BSD License (BSD)
+animate ::::: MIT License (MIT)
+face_alignment ::::: BSD License (BSD)
+PyWavelets ::::: MIT License (MIT)
+pyfakewebcam ::::: GPLv3
+tflearn ::::: MIT
+db_utils ::::: MIT License
+behave ::::: BSD License (BSD)
+sql ::::: BSD License (BSD)
+configobj ::::: BSD License (UNKNOWN)
+mycli ::::: BSD License
+cli_helpers ::::: BSD License
+steps ::::: GNU General Public License Version 3.0
+wrappers ::::: UNKNOWN
+termtosvg ::::: BSD License (BSD 3-clause license)
+typelib ::::: BSD License (BSD)
+Keras ::::: MIT License (MIT)
+hiredis ::::: BSD License (BSD)
+cchardet ::::: GNU General Public License (GPL), GNU Library or Lesser General Public License (LGPL), Mozilla Public License 1.1 (MPL 1.1) (Mozilla Public License)
+aiohttp_socks ::::: Apache 2
+googletransx ::::: Freeware (MIT)
+async_timeout ::::: Apache Software License (Apache 2)
+twint ::::: MIT License (MIT)
+schedule ::::: MIT License (MIT)
+sshuttle ::::: GNU Lesser General Public License v2 or later (LGPLv2+) (LGPL2.1+)
+ranger ::::: BSD License (BSD)
+bashlex ::::: GNU General Public License v3 or later (GPLv3+) (GPLv3+)
+asciinema ::::: GNU General Public License v3 or later (GPLv3+) (GNU GPLv3)
+tld ::::: GNU General Public License v2 (GPLv2), GNU Lesser General Public License v2 or later (LGPLv2+), Mozilla Public License 1.1 (MPL 1.1) (MPL-1.1 OR GPL-2.0-only OR LGPL-2.1-or-later)
+modes ::::: MIT
+flask_compress ::::: MIT License (MIT)
+flask_json ::::: BSD License (BSD)
+GPUtil ::::: MIT
+flasgger ::::: MIT
+bert_serving ::::: MIT License
+selenium-wire ::::: MIT License (MIT)
+chromedriver-autoinstaller ::::: MIT License (MIT)
+beautifultable ::::: MIT License (MIT)
+imagehash ::::: BSD 2-clause (see LICENSE file)
+chromedriver_autoinstaller ::::: MIT License (MIT)
+thop ::::: MIT
+coremltools ::::: BSD
+pretrainedmodels ::::: MIT License
+torchfile ::::: OSI Approved (BSD)
+hickle ::::: OSI Approved
+munch ::::: MIT License (MIT)
+PyGithub ::::: GNU Library or Lesser General Public License (LGPL)
+flake8-isort ::::: GNU General Public License v2 (GPLv2) (GPL version 2)
+pytest-cookies ::::: MIT License (MIT)
+pytest-instafail ::::: BSD License (BSD)
+binaryornot ::::: BSD License (BSD)
+celery ::::: BSD License (BSD)
+environ ::::: GNU General Public License (GPL) (GPL)
+factory ::::: UNKNOWN
+sh ::::: MIT License (MIT)
+textblob ::::: MIT License (MIT)
+unicodecsv ::::: BSD License (BSD License)
+sphinx-issues ::::: MIT License (MIT)
+setproctitle ::::: BSD License (BSD)
+sentry-sdk ::::: BSD License (BSD)
+alabaster ::::: BSD License
+uvloop ::::: Apache Software License, MIT License (MIT)
+requests_oauthlib ::::: BSD License (ISC)
+django-extensions ::::: MIT License (MIT License)
+dateparser ::::: BSD License (BSD)
+factory-boy ::::: MIT License (MIT)
+inotify-simple ::::: BSD
+inotify_simple ::::: BSD
+whitenoise ::::: MIT License (MIT)
+filemagic ::::: Apache Software License (ASL)
+execnet ::::: MIT License (MIT)
+pdftotext ::::: MIT
+djangoql ::::: MIT License (MIT License)
+djangorestframework ::::: BSD License (BSD)
+documents ::::: MIT
+python-gnupg ::::: BSD License (Copyright (C) 2008-2019 by Vinay Sajip. All Rights Reserved. See LICENSE.txt for license.)
+ply ::::: BSD
+django-filter ::::: BSD License (BSD)
+pytest-sugar ::::: BSD License (BSD)
+pytest-django ::::: BSD License (BSD-3-Clause)
+gnupg ::::: GNU General Public License v3 or later (GPLv3+) (GPLv3+)
+django-crispy-forms ::::: MIT License (MIT)
+zipp ::::: MIT License
+atomicwrites ::::: MIT License (MIT)
+more-itertools ::::: MIT License (MIT)
+django-cors-headers ::::: MIT License (MIT License)
+python-levenshtein ::::: GNU General Public License v2 or later (GPLv2+) (GPL)
+pytest-env ::::: MIT License
+pytest-forked ::::: MIT License (MIT)
+apipkg ::::: MIT License (MIT License)
+pytest-xdist ::::: MIT License (MIT)
+pyocr ::::: GNU General Public License v3 or later (GPLv3+) (GPLv3+)
+validate_email ::::: LGPL
+aiohttp_wsgi ::::: BSD License (BSD)
+paste ::::: MIT License (MIT)
+routes ::::: MIT License (MIT)
+pyramid ::::: Repoze Public License (BSD-derived (Repoze))
+cherrypy ::::: Freely Distributable, BSD License
+eventlet ::::: MIT License
+treq ::::: MIT License (MIT/X)
+web ::::: MIT License (MIT)
+inotify ::::: GPL 2
+google_images_download ::::: MIT License (MIT)
+pyDes ::::: Public Domain (Public Domain)
+docker-py ::::: Apache Software License (UNKNOWN)
+jira ::::: BSD License (BSD)
+blist ::::: BSD License (BSD)
+py-zabbix ::::: GNU General Public License v2 (GPLv2)
+envparse ::::: MIT License (MIT)
+croniter ::::: MIT License (MIT License)
+prison ::::: MIT License (MIT)
+exotel ::::: LICENSE.txt
+aws_requests_auth ::::: BSD License
+pysc2 ::::: Apache Software License (Apache License, Version 2.0)
+whichcraft ::::: BSD License (BSD)
+s2protocol ::::: MIT License
+s2clientprotocol ::::: MIT License (MIT)
+deepdiff ::::: MIT License (MIT)
+mpyq ::::: BSD License (UNKNOWN)
+waitress ::::: Zope Public License (ZPL 2.1)
+cheroot ::::: BSD License
+flup ::::: BSD License (BSD)
+mako ::::: MIT License (MIT)
+diesel ::::: UNKNOWN
+Cheetah ::::: MIT License (UNKNOWN)
+bjoern ::::: BSD License (2-clause BSD)
+meinheld ::::: BSD License (BSD)
+fapws ::::: GNU General Public License (GPL) (GPL)
+transifex-client ::::: GPLv2
+flask_sslify ::::: BSD License (BSD)
+flask_httpauth ::::: MIT License (MIT)
+flask_bootstrap ::::: BSD License (BSD)
+flask_moment ::::: MIT License (MIT)
+flask_pagedown ::::: MIT License (MIT)
+uritemplate ::::: OSI Approved, Apache Software License, BSD License (BSD 3-Clause License or Apache License, Version 2.0)
+_winapi ::::: MIT License
+pygments_cache ::::: OSI Approved (BSD 3-clause)
+with ::::: MIT License
+xonsh ::::: BSD
+compiler ::::: MIT License
+pretty ::::: BSD License (UNKNOWN)
+cmd ::::: MIT License (MIT)
+gitsome ::::: Apache Software License (Apache License 2.0)
+follow ::::: MIT License (MIT)
+report ::::: BSD
+porty ::::: UNKNOWN
+EZFNSetup ::::: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License
+lmdb ::::: OpenLDAP BSD
+projector ::::: MIT
+crc32c ::::: GNU Lesser General Public License v2 or later (LGPLv2+) (LGPLv2.1+)
+moviepy ::::: MIT License (MIT License)
+nvidia_smi ::::: Apache Software License (Apache License, Version 2.0)
+updater ::::: MIT License (MIT)
+visdom ::::: CC-BY-NC-4.0
+chainer ::::: MIT License
+asyncssh ::::: OSI Approved (Eclipse Public License v2.0)
+gobject ::::: MIT License (MIT)
+pytest-relaxed ::::: BSD License (BSD)
+interactive ::::: MIT License (MIT)
+gssapi ::::: ISC License (ISCL) (LICENSE.txt)
+pyasn1 ::::: BSD License (BSD)
+invocations ::::: BSD License (BSD)
+k5test ::::: ISC License (ISCL), MIT License (LICENSE.txt)
+pytest_relaxed ::::: BSD License (BSD)
+sha ::::: UNKNOWN
+google_translate ::::: BSD License (UNKNOWN)
+downloaders ::::: MIT License (MIT)
+youtube_dl_gui ::::: MIT License (MIT)
+polib ::::: MIT License (MIT)
+twodict ::::: Public Domain (Unlicense)
+maybe ::::: GNU General Public License v3 (GPLv3) (GPLv3)
+common ::::: MIT License (UNKNOWN)
+blessings ::::: MIT License (MIT)
+fuse ::::: bsd-2
+bup ::::: MIT License
+yowsup ::::: GNU General Public License v3 or later (GPLv3+) (GPL-3+)
+axolotl ::::: GPL v3
+pyreadline ::::: BSD License (BSD)
+discord ::::: Rapptz
+telnetlib ::::: MIT License (MIT License)
+OpenGL ::::: GNU Lesser General Public License v3 (LGPLv3) (LGPL v3)
+PyOpenGL ::::: BSD License (BSD)
+pytorch3d ::::: FAIR
+plotly ::::: MIT
+wechatpy ::::: MIT License
+falcon ::::: Apache Software License (Apache 2.0)
+optionaldict ::::: MIT License
+python-mimeparse ::::: MIT License (UNKNOWN)
+jupyterthemes ::::: MIT
+mdutils ::::: MIT License (MIT)
+gitfiti ::::: MIT License (MIT)
+python-socketio ::::: MIT License (MIT)
+flask-socketio ::::: MIT License (MIT)
+python-engineio ::::: MIT License (MIT)
+flask_socketio ::::: MIT License (MIT)
+Flask-Session ::::: BSD License (BSD)
+functions ::::: UNKNOWN
+dominate ::::: GNU Lesser General Public License v3 (LGPLv3) (LGPLv3)
+sets ::::: MIT
+pycryptodomex ::::: Apache Software License, BSD License, Public Domain (BSD, Public Domain, Apache)
+impacket ::::: Apache modified
+pcapy ::::: Apache modified
+ngxtop ::::: MIT License (MIT)
+guzzle_sphinx_theme ::::: UNKNOWN
+jeepney ::::: MIT License
+pypykatz ::::: MIT License
+memorpy ::::: BSD
+pycryptodome ::::: Apache Software License, BSD License, Public Domain (BSD, Public Domain, Apache)
+secretstorage ::::: BSD License (BSD 3-Clause License)
+zh ::::: UNKNOWN
+easydict ::::: LPGL, see LICENSE file.
+awscli ::::: Apache Software License (Apache License 2.0)
+nosexcover ::::: BSD License (BSD)
+config_manager ::::: MIT License (MIT)
+log ::::: BSD License (BSD)
+constant ::::: MIT License (MIT)
+sendgrid ::::: MIT
+sendgrid_mail ::::: MIT License (MIT)
+coloredlogs ::::: MIT License (MIT)
+wechat ::::: UNKNOWN
+humanfriendly ::::: MIT License (MIT)
+mathutils ::::: GNU GPLv2+
+bpy ::::: GNU General Public License v3 (GPLv3) (GPL-3.0)
+pick ::::: MIT License (MIT)
+pre-commit ::::: MIT License (MIT)
+rfc3986 ::::: Apache Software License (Apache 2.0)
+flake8-bugbear ::::: MIT License (MIT)
+trio-typing ::::: Apache Software License, MIT License (MIT -or- Apache License 2.0)
+flake8-pie ::::: BSD License (BSD-2-Clause)
+trustme ::::: Apache Software License, MIT License (MIT -or- Apache License 2.0)
+sniffio ::::: Apache Software License, MIT License (MIT -or- Apache License 2.0)
+trio ::::: Apache Software License, MIT License (MIT -or- Apache License 2.0)
+brotlipy ::::: MIT
+pytest-trio ::::: Apache Software License, MIT License (MIT -or- Apache License 2.0)
+autoflake ::::: MIT License (Expat License)
+pytest-asyncio ::::: Apache Software License (Apache 2.0)
+httpcore ::::: BSD License (BSD)
+curio ::::: BSD
+mkautodoc ::::: BSD License (BSD)
+setuptools-scm ::::: MIT License (MIT)
+sphinx-autobuild ::::: MIT License (MIT)
+pyutils ::::: BSD
+graphql_relay ::::: MIT License (MIT)
+snapshottest ::::: MIT
+promise ::::: MIT License (MIT)
+opacus ::::: Apache Software License (Apache-2.0)
+Flask-Cors ::::: MIT License (MIT)
+pytorch_pretrained_bert ::::: Apache Software License (Apache)
+pytorch-pretrained-bert ::::: Apache Software License (Apache)
+sphinx-jsonschema ::::: GNU General Public License v3 (GPLv3) (GPLv3)
+jupyter_telemetry ::::: BSD License (BSD)
+pytablewriter ::::: MIT License (MIT License)
+requests_mock ::::: Apache Software License (Apache-2)
+jupyterhub ::::: BSD License (BSD)
+sphinx-copybutton ::::: MIT License (MIT License)
+requests-mock ::::: Apache Software License (Apache-2)
+certipy ::::: BSD License (BSD)
+pamela ::::: MIT License (MIT)
+jupyter_server ::::: BSD License (BSD)
+jupyter_client ::::: BSD License (BSD)
+byteps ::::: Apache Software License (Apache)
+bob ::::: BSD License (BSD)
+tensorpack ::::: Apache
+sotabencheval ::::: Apache Software License (Apache-2.0)
+albumentations ::::: MIT License (MIT)
+dataset ::::: MIT License (MIT)
+horovod ::::: Apache Software License
+imgaug ::::: MIT License (MIT)
+viz ::::: MIT License (Copyright (c) 2013 Christopher Brown)
+cntk ::::: MIT License (MIT)
+paddle ::::: BSD
+mxnet ::::: Apache Software License (Apache 2.0)
+PyUserInput ::::: http://www.gnu.org/licenses/gpl-3.0.html
+mss ::::: MIT License (MIT)
+pymouse ::::: Apache Software License (UNKNOWN)
+offshoot ::::: Apache Software License (Apache License v2)
+xtermcolor ::::: MIT License (MIT)
+aioredis ::::: MIT License (MIT)
+pykeyboard ::::: MIT
+tensorflow-gpu ::::: Apache Software License (Apache 2.0)
+keras-rl ::::: MIT
+Kivy ::::: MIT
+kivy ::::: MIT
+PyAutoGUI ::::: BSD License (BSD)
+oauth2 ::::: MIT License (MIT License)
+google-cloud-logging ::::: Apache Software License (Apache 2.0)
+twitter ::::: MIT License (MIT License)
+polygon-api-client ::::: MIT License
+analysis ::::: GNU General Public License (GPL) (GPL)
+google-cloud-error-reporting ::::: Apache Software License (Apache 2.0)
+polygon ::::: GNU Library or Lesser General Public License (LGPL), Other/Proprietary License (LGPL for Polygon, other for gpc)
+google-cloud-language ::::: Apache Software License (Apache 2.0)
+holidays ::::: MIT License (MIT)
+PySide2 ::::: GNU Library or Lesser General Public License (LGPL), Other/Proprietary License (LGPL)
+shiboken2 ::::: GNU Library or Lesser General Public License (LGPL), Other/Proprietary License (LGPL)
+legit ::::: BSD License (BSD)
+crayons ::::: MIT License (MIT)
+clint ::::: ISC License (ISCL) (ISC)
+BeautifulSoup ::::: Python Software Foundation License (MIT)
+asyncio_redis ::::: LICENSE.txt
+dis ::::: UNKNOWN
+vibora ::::: MIT License (MIT)
+machine_learning ::::: MIT License
+naive_bayes ::::: MIT
+mnist ::::: BSD
+scratch ::::: MIT License (MIT)
+stats ::::: MIT License (MIT)
+gradient_descent ::::: MIT License
+probability ::::: MIT License (MIT)
+multiprocess ::::: BSD License (BSD)
+requests-toolbelt ::::: Apache Software License (Apache 2.0)
+helpers ::::: MIT License (MIT license)
+jupyter_core ::::: BSD License (BSD)
+asv ::::: BSD License (BSD)
+distributed ::::: BSD License (BSD)
+s3fs ::::: BSD License (BSD)
+fsspec ::::: BSD License (BSD)
+wordcloud ::::: MIT
+pandas_gbq ::::: BSD License
+jupyterlab ::::: BSD License (BSD)
+rpyc ::::: MIT License (MIT)
+modin ::::: Apache 2
+tables ::::: BSD License (BSD 2-Clause)
+xarray ::::: Apache Software License (Apache)
+h2o ::::: Apache Software License (Apache v2)
+taxi ::::: wtfpl
+bokeh ::::: Freely Distributable, OSI Approved (BSD-3-Clause)
+pyLDAvis ::::: MIT License (MIT)
+feather-format ::::: Apache License, Version 2.0
+mortgage ::::: MIT License (MIT license)
+crypto ::::: MIT License (MIT license)
+M2Crypto ::::: MIT License (MIT)
+_sh ::::: MIT License (MIT)
+omg ::::: MIT
+apistar ::::: BSD License (BSD)
+typesystem ::::: BSD License (BSD)
+main ::::: UNKNOWN
+gpu_utils ::::: MIT License (MIT)
+powerline_shell ::::: MIT
+DBUtils ::::: MIT License (MIT License)
+genshi ::::: BSD License (BSD)
+testpackage ::::: private
+ClientForm ::::: BSD License, Zope Public License (BSD)
+neovim ::::: Apache
+vim-vint ::::: MIT License
+pynvim ::::: Apache
+legacy ::::: Apache Software License (Apache License, Version 2.0)
+repr ::::: BSD License (BSD)
+dictutils ::::: MIT License (MIT)
+clastic ::::: BSD
+lithoxyl ::::: BSD License (BSD)
+boltons ::::: BSD License (BSD)
+listutils ::::: MIT License
+seq2seq ::::: MIT License (MIT)
+GitPython ::::: BSD License
+truffleHogRegexes ::::: GNU
+truffleHog ::::: GNU
+hyperopt ::::: BSD License (BSD)
+pyspark ::::: Apache Software License (http://www.apache.org/licenses/LICENSE-2.0)
+featuretools ::::: BSD 3-clause
+featuretools-sklearn-transformer ::::: BSD 3-clause
+composeml ::::: BSD 3-clause
+smart_open ::::: MIT License (MIT)
+autonormalize ::::: BSD 3-clause
+autopep8 ::::: MIT License (Expat License)
+graphviz ::::: MIT License (MIT)
+re_assert ::::: MIT License (MIT)
+pre_commit ::::: MIT License (MIT)
+cfgv ::::: MIT License (MIT)
+identify ::::: MIT License (MIT)
+efficientnet_pytorch ::::: Apache Software License (Apache)
+stylize ::::: Apache License, Version 2.0
+voltron ::::: MIT
+urwid ::::: GNU Library or Lesser General Public License (LGPL) (LGPL)
+envi ::::: MIT License (MIT license)
+capstone ::::: BSD License
+requests_unixsocket ::::: Apache Software License (Apache-2)
+voltron_web ::::: MIT
+blessed ::::: MIT License (MIT)
+scruffy ::::: UNKNOWN
+gdb ::::: GNU Lesser General Public License v3 (LGPLv3) (LGPL v3)
+pypacker ::::: GNU General Public License v2 (GPLv2) (GPLv2)
+pkuseg ::::: Other/Proprietary License
+venusian ::::: BSD-derived (http://www.repoze.org/LICENSE.txt)
+yarl ::::: Apache Software License (Apache 2)
+mode ::::: BSD License (BSD)
+datadog ::::: BSD License (BSD)
+rocksdb ::::: BSD License
+raven ::::: BSD
+aredis ::::: MIT License (MIT)
+opentracing ::::: Apache Software License (Apache License 2.0)
+sphinx_celery ::::: BSD License (BSD)
+raven_aiohttp ::::: BSD
+colorclass ::::: MIT License (MIT)
+click_completion ::::: MIT
+faust ::::: BSD License (BSD 3-Clause)
+just ::::: MIT
+envoy ::::: MIT
+django_extensions ::::: MIT License (MIT License)
+vobject ::::: Apache Software License (Apache)
+mongoengine ::::: MIT License (MIT)
+shortuuid ::::: BSD License (BSD)
+django_pdb ::::: Public Domain (Public Domain)
+betamax ::::: OSI Approved (Apache 2.0)
+google-auth ::::: Apache Software License (Apache 2.0)
+google_auth_oauthlib ::::: Apache Software License (Apache 2.0)
+wxpython ::::: OSI Approved (wxWindows Library License (https://opensource.org/licenses/wxwindows.php))
+nms ::::: MIT License
+external ::::: MIT License (MIT)
+opts ::::: BSD
+trains ::::: Apache Software License (Apache License 2.0)
+stanza ::::: Apache License 2.0
+sudachipy ::::: Apache-2.0
+corenlp ::::: UNKNOWN
+sudachidict_core ::::: Apache-2.0
+backports.ssl-match-hostname ::::: Python Software Foundation License (Python Software Foundation License)
+enum34 ::::: BSD License (BSD License)
+pytest-timeout ::::: DFSG approved, MIT License (MIT)
+asn1crypto ::::: MIT License (MIT)
+colorz ::::: MIT License (MIT)
+haishoku ::::: MIT License (MIT)
+pywal ::::: MIT License (MIT)
+scrapy_redis ::::: MIT License (MIT)
+scrapy-redis ::::: MIT License (MIT)
+srt ::::: Public Domain (Public Domain)
+auditok ::::: GNU General Public License v3 (GPLv3) (GNU General Public License v3 (GPLv3))
+pysubs2 ::::: MIT License
+ffsubsync ::::: MIT License (MIT)
+PyInstaller ::::: GNU General Public License v2 (GPLv2) (GPLv2-or-later with a special exception which allows to use PyInstaller to build and distribute non-free programs (including commercial ones))
+webrtcvad ::::: MIT License (MIT)
+ffmpeg-python ::::: Apache Software License
+ifaddr ::::: MIT License (MIT)
+opendrop ::::: GNU General Public License v3 (GPLv3)
+fleep ::::: MIT License (MIT)
+libarchive ::::: GPL 2
+channels ::::: BSD License (BSD)
+daphne ::::: BSD License (BSD)
+scrapy_splash ::::: BSD License (BSD)
+haipproxy ::::: MIT License (MIT)
+Scrapy ::::: BSD License (BSD)
+scrapy-splash ::::: BSD License (BSD)
+Twisted ::::: MIT
+saws ::::: Apache Software License (Apache License 2.0)
+easyutils ::::: BSD License (BSD)
+python-xlib ::::: GNU Lesser General Public License v2 or later (LGPLv2+) (LGPLv2+)
+pywinauto ::::: BSD License (BSD 3-clause)
+easytrader ::::: BSD License (BSD)
+theHarvester ::::: GNU General Public License v2 (GPLv2)
+aiomultiprocess ::::: MIT License (MIT)
+aiosqlite ::::: MIT License
+google-cloud-speech ::::: Apache Software License (Apache 2.0)
+pysha3 ::::: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication, Python Software Foundation License (PSFL (Keccak: CC0 1.0 Universal))
+cli ::::: MIT License (MIT)
+pyinstaller ::::: GNU General Public License v2 (GPLv2) (GPLv2-or-later with a special exception which allows to use PyInstaller to build and distribute non-free programs (including commercial ones))
+status ::::: MIT License (MIT license)
+flask_principal ::::: MIT License (MIT)
+cooked_input ::::: MIT License (MIT)
+inflection ::::: MIT License (MIT)
+weasyprint ::::: BSD License (BSD)
+wand ::::: MIT License (MIT License)
+swiglpk ::::: GNU General Public License v3 (GPLv3) (GPL v3)
+nlopt ::::: MIT License (MIT)
+numcodecs ::::: MIT License (MIT)
+zarr ::::: MIT License (MIT)
+optlang ::::: Apache Software License (Apache-2.0)
+flashtext ::::: MIT License
+asyncpg ::::: Apache Software License (Apache License, Version 2.0)
+reference ::::: MIT Licence
+instagram_scraper ::::: Public domain
+sublime ::::: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication (CC0)
+Default ::::: GNU General Public License v3 (GPLv3) (GPLv3)
+paths ::::: MIT License (UNKNOWN)
+noteshrink ::::: UNKNOWN
+output ::::: UNKNOWN
+format ::::: MIT
+repos ::::: UNKNOWN
+choose ::::: MIT License (BSD)
+aiofiles ::::: Apache Software License (Apache 2.0)
+mergedeep ::::: MIT License
+asgi_csrf ::::: Apache License, Version 2.0
+click_default_group ::::: Public Domain (BSD)
+janus ::::: Apache Software License (Apache 2)
+pysqlite3 ::::: zlib/libpng License (zlib/libpng)
+hupper ::::: MIT License (MIT)
+datasette ::::: Apache Software License (Apache License, Version 2.0)
+AppKit ::::: MIT
+my_module ::::: UNKNOWN
+argh ::::: GNU Library or Lesser General Public License (LGPL) (GNU Lesser General Public License (LGPL), Version 3)
+echo ::::: MIT License (MIT)
+acme_tiny ::::: MIT License (MIT)
+fusepy ::::: ISC License (ISCL) (ISC)
+pdfminer ::::: MIT License (MIT)
+conv ::::: MIT License (MIT)
+stream_framework ::::: GNU General Public License (GPL) (UNKNOWN)
+fabric ::::: BSD License (BSD)
+semantic ::::: MIT License (UNKNOWN)
+pyvona ::::: UNKNOWN
+brain ::::: GNU General Public License (GPL) (UNKNOWN)
+g2p ::::: MIT
+python-mpd ::::: GNU Library or Lesser General Public License (LGPL) (UNKNOWN)
+facebook ::::: Apache Software License (Apache)
+mad ::::: GNU General Public License v3 or later (GPLv3+) (GPLv3)
+notifier ::::: Apache Software License
+cmuclmtk ::::: BSD
+pocketsphinx ::::: BSD License (BSD)
+facebook-sdk ::::: Apache Software License (Apache)
+pyaudio ::::: Hubert Pham
+wave ::::: GNU Library or Lesser General Public License (LGPL) (UNKNOWN)
+nasm ::::: MIT License (MIT)
+skeleton ::::: BSD License (BSD)
+minikerberos ::::: MIT License
+pywerview ::::: GNU General Public License v3 or later (GPLv3+) (GNU GPLv3)
+ntlm-auth ::::: MIT License (MIT)
+neo4j ::::: Apache Software License (Apache License, Version 2.0)
+pylnk3 ::::: GNU Library or Lesser General Public License (LGPL) (GNU Library or Lesser General Public License (LGPL))
+shiv ::::: BSD License (BSD License)
+winacl ::::: MIT License
+msldap ::::: MIT License
+zope.event ::::: Zope Public License (ZPL 2.1)
+minidump ::::: MIT License
+pypsrp ::::: MIT License (MIT)
+requests-ntlm ::::: ISC License (ISCL) (ISC)
+zope.interface ::::: Zope Public License (ZPL 2.1)
+lsassy ::::: MIT License (MIT)
+aiowinreg ::::: MIT License
+pynacl ::::: Apache License 2.0
+winsspi ::::: MIT License
+asysocks ::::: MIT License
+pyspnego ::::: MIT License (MIT)
+classes ::::: BSD License (BSD-2-Clause)
+cfn_flip ::::: Apache2
+awacs ::::: BSD License (New BSD license)
+pyaes ::::: MIT License (License :: OSI Approved :: MIT License)
+python_socks ::::: Apache 2
+cryptg ::::: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication (CC0)
+telethon ::::: MIT License (MIT)
+hachoir ::::: GNU General Public License (GPL) (GNU GPL v2)
+normalize ::::: MIT License (MIT)
+sniffer ::::: MIT License (MIT)
+libs ::::: MIT License
+sensei ::::: DB
+runner ::::: GNU General Public License v2 (GPLv2) (GPLv2)
+triangle ::::: LGPLv3
+isso ::::: MIT License (MIT)
+uwsgi ::::: GPL2
+misaka ::::: MIT License (MIT)
+flask_caching ::::: BSD License (BSD)
+pendulum ::::: MIT License (MIT)
+pytzdata ::::: MIT License (MIT)
+ez_setup ::::: MIT
+defusedexpat ::::: Python Software Foundation License (PSFL)
+httptools ::::: MIT License (MIT)
+logdna ::::: MIT
+sanic ::::: MIT License (MIT)
+multidict ::::: Apache Software License (Apache 2)
+raygun4py ::::: MIT License (LICENSE)
+towncrier ::::: MIT License (MIT)
+kyoukai ::::: MIT
+rollbar ::::: MIT License
+coursera ::::: GNU Lesser General Public License v3 or later (LGPLv3+) (LGPL)
+ninja ::::: Apache Software License, BSD License (Apache 2.0)
+qtpy ::::: MIT License (MIT)
+requests_cache ::::: BSD License (BSD License)
+rapidjson ::::: MIT License
+mujson ::::: MIT License (MIT)
+pprofile ::::: GNU General Public License v2 or later (GPLv2+) (GPL 2+)
+guppy ::::: MIT License (MIT)
+vmprof ::::: MIT License
+look ::::: Apache License, Version 2.0
+testtools ::::: MIT License
+fakeredis ::::: BSD License (BSD)
+webtest ::::: MIT License (MIT)
+pecan ::::: BSD License (BSD)
+nuts ::::: MIT License (MIT)
+mimeparse ::::: MIT License (MIT)
+http_prompt ::::: MIT License (MIT)
+parsimonious ::::: MIT License (MIT)
+Deprecated ::::: MIT License (MIT)
+mkdocs-bootstrap4 ::::: MIT
+mkdocs-git-committers-plugin ::::: MIT License (MIT)
+sqlitebck ::::: MIT License (MIT)
+pep562 ::::: MIT License (MIT License)
+htmlmin ::::: BSD License (BSD)
+jsmin ::::: MIT License (MIT License)
+pymdown-extensions ::::: MIT License (MIT License)
+Markdown ::::: BSD License (BSD License)
+mkdocs-bootswatch ::::: BSD
+mkdocs-minify-plugin ::::: MIT License (MIT)
+wechat_notice ::::: MIT License (MIT)
+pysnooper ::::: MIT License
+aiocontextvars ::::: BSD License (BSD license)
+win32_setctime ::::: MIT License (MIT license)
+loguru ::::: MIT License (MIT license)
+jsonfield ::::: MIT
+archivebox ::::: MIT License (MIT)
+index ::::: MIT License (MIT)
+decorators ::::: MIT License (MIT)
+chalice ::::: Apache Software License (Apache License 2.0)
+rpn ::::: MIT
+yolo3 ::::: MIT Licence
+tablib ::::: MIT License (MIT)
+records ::::: ISC License (ISCL) (ISC)
+pydocstyle ::::: MIT License (MIT)
+flask_seasurf ::::: BSD License (BSD)
+Flask-Testing ::::: BSD License (BSD)
+flask_testing ::::: BSD License (BSD)
+bandit ::::: Apache Software License
+Flask-SSLify ::::: BSD License (BSD)
+Flask-SeaSurf ::::: BSD License (BSD)
+diff ::::: MIT License
+win32gui ::::: PSF
+rdbtools ::::: MIT License (MIT)
+lzf ::::: BSD License
+jukebox ::::: MIT License (MIT)
+diff_match_patch ::::: Apache Software License (Apache)
+fuckit ::::: WTFPL
+rockstar ::::: MIT License (MIT)
+web.py ::::: Public Domain (Public domain)
+validator ::::: MIT License (MIT)
+pandas_datareader ::::: BSD License
+multitasking ::::: Apache Software License (Apache)
+yfinance ::::: Apache Software License (Apache)
+nameko ::::: Apache License, Version 2.0
+nameko_sqlalchemy ::::: Apache License, Version 2.0
+sphinx_nameko_theme ::::: MIT License (MIT)
+responses ::::: Apache 2.0
+mockredispy ::::: Apache2
+werobot ::::: MIT License (MIT License)
+WebTest ::::: MIT License (MIT)
+tornado_werobot ::::: BSD License (BSD)
+Django ::::: BSD License (BSD-3-Clause)
+bbfreeze ::::: zlib/libpng License (zlib/libpng license)
+livestreamer ::::: Simplified BSD
+singledispatch ::::: MIT License (MIT)
+awslogs ::::: BSD License (BSD)
+storm ::::: GNU Library or Lesser General Public License (LGPL) (LGPL)
+rx ::::: MIT License (MIT License)
+PyQt5 ::::: GPL v3
+sphinx_autodoc_typehints ::::: MIT License (MIT)
+qdarkstyle ::::: MIT License (MIT)
+fuel ::::: MIT License (MIT)
+load ::::: Public Domain (Unlicense)
+ui ::::: GNU General Public License v3 (GPLv3) (GPL)
+sacred ::::: MIT License
+flaky ::::: Apache Software License (Apache Software License, Version 2.0, http://www.apache.org/licenses/LICENSE-2.0)
+palladium ::::: Apache Software License (Apache License, Version 2.0)
+skorch ::::: new BSD 3-Clause
+validation ::::: Apache Software License (Apache Software License)
+oauth_provider ::::: BSD License (UNKNOWN)
+gis ::::: MIT License (MIT)
+python_digest ::::: BSD License (UNKNOWN)
+biplist ::::: BSD License (BSD)
+kazoo ::::: Apache Software License (Apache 2.0)
+pysyncobj ::::: MIT License
+etcd ::::: GNU General Public License v2 (GPLv2) (GPL 2)
+patroni ::::: MIT License (The MIT License)
+importing ::::: PSF or ZPL
+cdiff ::::: BSD License (BSD-3)
+ydiff ::::: BSD License (BSD-3)
+vprof ::::: BSD
+python_speech_features ::::: MIT
+CVAE ::::: MIT License
+udemy ::::: MIT License (MIT)
+m3u8 ::::: MIT
+cloudscraper ::::: MIT License
+codemod ::::: Apache License 2.0
+stellar ::::: BSD License (BSD)
+pixelmatch ::::: OSI Approved (ISC)
+playwright ::::: Apache Software License
+pdoc3 ::::: GNU Affero General Public License v3 or later (AGPLv3+) (AGPL-3.0)
+Flask-Moment ::::: MIT License (MIT)
+uWSGI ::::: GPL2
+outcome ::::: Apache Software License, MIT License (MIT -or- Apache License 2.0)
+sphinxcontrib-trio ::::: Apache Software License, MIT License (MIT -or- Apache License 2.0)
+iniconfig ::::: MIT License (MIT License)
+astor ::::: BSD License (BSD-3-Clause)
+sortedcontainers ::::: Apache Software License (Apache 2.0)
+incremental ::::: MIT License (MIT)
+immutables ::::: Apache Software License (Apache License, Version 2.0)
+bindings ::::: MIT License (MIT)
+pysot ::::: LICENSE.rst
+toolkit ::::: MIT
+trax ::::: Apache Software License (Apache 2.0)
+flask_debugtoolbar ::::: BSD License (BSD)
+flask_bcrypt ::::: BSD License (BSD)
+flask_static_digest ::::: MIT License (MIT)
+environs ::::: MIT License (MIT)
+wsproto ::::: MIT License (MIT License)
+pbr ::::: Apache Software License
+guake ::::: GNU General Public License v2 or later (GPLv2+)
+colorlog ::::: MIT License (MIT License)
+clickclick ::::: Apache Software License (Apache License 2.0)
+aiohttp_remotes ::::: MIT License
+aiohttp_jinja2 ::::: Apache Software License (Apache 2)
+uwsgi_metrics ::::: Apache Software License 2.0
+orm ::::: BSD License (BSD)
+connexion ::::: Apache License Version 2.0
+openapi_spec_validator ::::: Apache License, Version 2.0
+swagger_ui_bundle ::::: Apache License Version 2.0
+line_profiler ::::: BSD License (BSD)
+watchgod ::::: MIT License (MIT)
+afkak ::::: Apache Software License (Apache License 2.0)
+wokkel ::::: MIT
+pyasn1_modules ::::: BSD License (BSD-2-Clause)
+slack ::::: MIT License (MIT)
+hpfeeds ::::: GPL
+pymisp ::::: BSD License (BSD-2-Clause)
+csirtgsdk ::::: MPL2
+tftpy ::::: MIT License
+fawkes ::::: MIT License (BSD)
+scalene ::::: Apache Software License (Apache License 2.0)
+pyperf ::::: MIT License (MIT license)
+periodic ::::: GNU General Public License (GPL) (GNU GPL)
+resolver ::::: GNU Library or Lesser General Public License (LGPL) (LGPL)
+pytest-profiling ::::: MIT License (MIT license)
+python-editor ::::: Apache Software License (Apache)
+guess_language ::::: GNU Library or Lesser General Public License (LGPL) (LGPL)
+Flask-Bootstrap ::::: BSD License (BSD)
+Flask-HTTPAuth ::::: MIT License (MIT)
+flask_babel ::::: BSD License (BSD)
+visitor ::::: MIT
+WTForms ::::: BSD License (BSD-3-Clause)
+Flask-Babel ::::: BSD License (BSD)
+Mako ::::: MIT License (MIT)
+guess_language-spirit ::::: GNU Lesser General Public License v3 or later (LGPLv3+)
+Flask-Mail ::::: BSD License (BSD)
+glue ::::: BSD License (BSD)
+hamlpy ::::: MIT
+scss ::::: GNU Library or Lesser General Public License (LGPL) (GNU LGPL)
+pyrax ::::: Apache Software License (Apache License, Version 2.0)
+cactus ::::: BSD License (BSD)
+markdown2 ::::: MIT License (MIT)
+odict ::::: Python Software Foundation License (Python Software Foundation License)
+fingerprint ::::: MIT License (MIT License)
+posix_ipc ::::: BSD License (http://creativecommons.org/licenses/BSD/)
+neon ::::: Python Software Foundation License (Python Software Foundation License)
+network ::::: MIT
+pytools ::::: MIT License (MIT)
+ingest_utils ::::: Apache Software License
+pycuda ::::: MIT License (MIT)
+scikit-cuda ::::: BSD License (BSD)
+pandoc ::::: MIT License
+aeon ::::: The MIT License (MIT)
+odfpy ::::: Apache Software License, GNU General Public License (GPL), GNU Library or Lesser General Public License (LGPL)
+MarkupPy ::::: MIT
+kaggle ::::: Apache 2.0
+statuspage ::::: MIT License (MIT)
+dotbot ::::: MIT License (MIT)
+telebot ::::: MIT License (MIT)
+hy ::::: DFSG approved, MIT License (Expat)
+funcparserlib ::::: MIT License (MIT)
+get_version ::::: GNU General Public License v3 or later (GPLv3+)
+telegram ::::: MIT
+poyo ::::: MIT License (MIT)
+sphinxcontrib-napoleon ::::: BSD License (BSD)
+gluoncv ::::: Apache-2.0
+petastorm ::::: Apache Software License (Apache License, Version 2.0)
+mpld3 ::::: BSD License (BSD 3-clause)
+gdown ::::: MIT
+allennlp ::::: Apache Software License (Apache)
+gensim ::::: GNU Lesser General Public License v2 or later (LGPLv2+) (LGPLv2.1)
+sqlitedict ::::: Apache Software License (Apache 2.0)
+sentence_transformers ::::: Apache Software License (Apache License 2.0)
+bpemb ::::: MIT License (MIT)
+segtok ::::: MIT License (MIT)
+flair ::::: MIT
+janome ::::: Apache Software License (AL2)
+deprecated ::::: MIT License (MIT)
+bugsnag ::::: MIT License (MIT)
+deepctr ::::: Apache Software License (Apache-2.0)
+flask_api ::::: BSD License (BSD)
+flask_paginate ::::: BSD License (BSD-3-Clause)
+flask_admin ::::: BSD License (BSD)
+flask_reverse_proxy_fix ::::: Other/Proprietary License (Open Government Licence v3.0)
+buku ::::: GNU General Public License v3 (GPLv3) (GPLv3)
+python-twitter ::::: Apache Software License (Apache License 2.0)
+tenacity ::::: Apache Software License (Apache 2.0)
+oyaml ::::: MIT
+emails ::::: BSD License
+encoder ::::: MIT License
+google_api_python_client ::::: Apache Software License (Apache 2.0)
+mkdocs-cinder ::::: MIT
+pygorithm ::::: MIT License (MIT)
+plac ::::: BSD License (BSD License)
+huxley ::::: Apache 2
+jsonpickle ::::: BSD License
+items ::::: Apache Software License (Apache License 2.0)
+shellingham ::::: ISC License (ISCL) (ISC License)
+lands ::::: UNKNOWN
+py-bcrypt ::::: BSD
+Flask-Bcrypt ::::: BSD License (BSD)
+Flask-Script ::::: BSD License (BSD)
+gevent-websocket ::::: Copyright 2011-2017 Jeffrey Gelens <jeffrey@noppo.pro>
+eel ::::: MIT License
+bottle-websocket ::::: MIT License (MIT)
+flask_session ::::: BSD License (BSD)
+Flask_SocketIO ::::: MIT License (MIT)
+socketio ::::: EvgrDan
+nose_parameterized ::::: BSD License (FreeBSD)
+preprocess ::::: MIT License (http://www.opensource.org/licenses/mit-license.php)
+meta ::::: BSD License (BSD)
+problems ::::: MIT License
+kmeans ::::: MIT License (MIT)
+NaiveBayes ::::: This package is free software; you can redistribute it and/or modify it under the terms of the "GNU General Public License".
+mlp ::::: UNKNOWN
+tinydb ::::: MIT License (MIT)
+present ::::: Apache Software License (Apache 2.0)
+asciimatics ::::: Apache Software License (Apache 2.0)
+pyfiglet ::::: MIT License (MIT)
+icdiff ::::: UNKNOWN
+snappy ::::: GNU General Public License v2 or later (GPLv2+) (GPLv2+)
+bert_pytorch ::::: Apache Software License
+banal ::::: MIT License (MIT)
+furo ::::: MIT License
+hexdump ::::: Public Domain (Public Domain)
+macholib ::::: MIT License (MIT)
+pyopencl ::::: MIT License (MIT)
+ntfy ::::: GNU General Public License v3 (GPLv3) (GPLv3)
+Foundation ::::: MIT License (MIT License)
+slacker ::::: Apache Software License (http://www.apache.org/licenses/LICENSE-2.0)
+rocketchat_API ::::: MIT
+telegram_send ::::: GNU General Public License v3 or later (GPLv3+) (GPLv3+)
+instapush ::::: MIT License
+rocketchat ::::: MIT License
+pid ::::: Apache Software License (ASL)
+matrix_client ::::: Apache Software License (Apache License, Version 2.0)
+sleekxmpp ::::: MIT License (MIT)
+opustools ::::: MIT License
+LexRank ::::: MIT
+hnswlib ::::: Yury Malkov and others
+pytrec_eval ::::: MIT License
+nlpaug ::::: MIT
+onelogin ::::: MIT
+freeze ::::: GNU Affero General Public License v3
+python-saml ::::: MIT
+sure ::::: GNU General Public License v3 or later (GPLv3+)
+httpretty ::::: MIT License (MIT)
+south ::::: Apache Software License (UNKNOWN)
+social ::::: MIT License (MIT)
+social-auth-core ::::: BSD License (BSD)
+flags ::::: UNKNOWN
+_mysql ::::: GPL
+wechatspider ::::: http://web.pxuexiao.com
+MySQL-python ::::: GNU General Public License (GPL) (GPL)
+PyVirtualDisplay ::::: BSD License (BSD)
+pyvirtualdisplay ::::: BSD License (BSD)
+vocabulary ::::: MIT License (MIT)
+hanziconv ::::: Apache Software License (Apache 2.0)
+leven ::::: UNKNOWN
+pypinyin ::::: MIT License (MIT)
+scikits.audiolab ::::: GNU Library or Lesser General Public License (LGPL) (LGPL)
+scikit_learn ::::: OSI Approved (new BSD)
+monotonic ::::: Apache Software License (Apache)
+typeguard ::::: MIT License (MIT)
+semantic_version ::::: BSD License (BSD)
+requests_pkcs12 ::::: ISC License (ISCL) (ISC)
+httmock ::::: Apache Software License (Apache-2.0)
+hashids ::::: MIT License
+premailer ::::: Python Software Foundation License (Python)
+stripe ::::: MIT License (MIT)
+structlog ::::: Apache Software License, MIT License (MIT or Apache License, Version 2.0)
+flask_cdn ::::: MIT License (MIT)
+bert4keras ::::: Apache License 2.0
+uniout ::::: MIT License (MIT)
+cchess ::::: GNU General Public License v3 or later (GPLv3+) (GPL-3.0)
+jieba_fast ::::: MIT License (MIT)
+func_argparse ::::: BSD
+transliterate ::::: GPL 2.0/LGPL 2.1
+text_processing ::::: MIT License
+cc_net ::::: CC-BY-NC-4.0
+indexing ::::: GPL v3
+whois ::::: MIT License (MIT http://www.opensource.org/licenses/mit-license.php)
+GeoIP ::::: GNU LESSER GENERAL PUBLIC LICENSE
+ppdeep ::::: Apache Software License
+ssdeep ::::: GNU Lesser General Public License v3 or later (LGPLv3+) (LGPLv3+)
+dnstwist ::::: Apache Software License (ASL 2.0)
+record ::::: Zope Public License (ZPL 2.1)
+preconditions ::::: MIT
+extras ::::: MIT License (UNKNOWN)
+alert ::::: GNU General Public License v3 (GPLv3) (gpl-3.0)
+imap ::::: MIT Licence
+smtp ::::: MIT Licence
+xmpp ::::: MIT License (MIT)
+cipher ::::: UNKNOWN
+ccs ::::: UNKNOWN
+custom ::::: UNKNOWN
+connection ::::: Public Domain (Unlicense)
+timm ::::: Apache Software License
+efficientnet-pytorch ::::: Apache Software License (Apache)
+__version__ ::::: MIT
+segmentation_models_pytorch ::::: MIT License (MIT)
+crhelper ::::: Apache Software License (Apache2)
+cfnresponse ::::: Other/Proprietary License
+args ::::: BSD License (BSD)
+requests-file ::::: Apache Software License (Apache 2.0)
+tldextract ::::: BSD License (BSD License)
+pybloom-live ::::: MIT License (MIT License)
+selenium-requests ::::: MIT License (MIT)
+bitarray ::::: Python Software Foundation License (PSF)
+pkginfo ::::: MIT License (MIT)
+cattrs ::::: MIT License (MIT license)
+readme-renderer ::::: Apache Software License (Apache License, Version 2.0)
+pybloom_live ::::: MIT License (MIT License)
+bpytop ::::: Apache Software License (Apache-2.0)
+flake8-quotes ::::: MIT License (MIT)
+ansi2html ::::: GNU Lesser General Public License v3 or later (LGPLv3+)
+cerberus ::::: ISC License (ISCL) (ISC)
+valideer ::::: MIT License (UNKNOWN)
+trafaret ::::: BSD License (BSD)
+voluptuous ::::: BSD License (BSD)
+mkdocs-exclude ::::: Apache
+markdown-include ::::: GNU General Public License v3 (GPLv3)
+devtools ::::: MIT License (MIT)
+marshmallow ::::: MIT License (MIT)
+email-validator ::::: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication (CC0 (copyright waived))
+python-multipart ::::: Apache Software License (Apache)
+grip ::::: MIT
+path_and_address ::::: MIT
+graph_nets ::::: Apache Software License (Apache License, Version 2.0)
+pytweening ::::: BSD License (BSD)
+pymsgbox ::::: GNU General Public License v3 or later (GPLv3+) (GPLv3+)
+Xlib ::::: GNU Lesser General Public License v2 or later (LGPLv2+) (LGPLv2+)
+pygetwindow ::::: BSD License (BSD)
+mouseinfo ::::: GNU General Public License v3 or later (GPLv3+) (GPLv3+)
+pyscreeze ::::: MIT License (MIT)
+flower ::::: BSD License (BSD)
+v2ray_util ::::: GNU General Public License v3 (GPLv3) (GPL)
+pytest-httpbin ::::: MIT License (MIT)
+mechanicalsoup ::::: MIT License (MIT)
+pytest-flake8 ::::: BSD License (BSD License)
+grequests ::::: BSD License (BSD)
+worker ::::: BSD License (BSD)
+Flask-API ::::: BSD License (BSD)
+bumpversion ::::: MIT License (MIT)
+proselint ::::: BSD
+gmail ::::: BSD
+tensorflowonspark ::::: Apache Software License (Apache 2.0)
+py4j ::::: BSD License (BSD License)
+python-logstash ::::: MIT License (UNKNOWN)
+WeRoBot ::::: MIT License (MIT License)
+mdeditor ::::: UNKNOWN
+django-ipware ::::: MIT License (MIT)
+django-uuslug ::::: MIT License (BSD)
+whoosh ::::: BSD License (Two-clause BSD license)
+rjsmin ::::: OSI Approved (Apache License, Version 2.0)
+Whoosh ::::: BSD License (Two-clause BSD license)
+django-appconf ::::: BSD License (BSD)
+django-mdeditor ::::: GNU General Public License v3 (GPLv3) (GPL-3.0 License)
+haystack ::::: GNU General Public License (GPL) (GPL)
+django-autoslug ::::: GNU Library or Lesser General Public License (LGPL) (GNU Lesser General Public License (LGPL), Version 3)
+elasticsearch-dsl ::::: Apache Software License (Apache-2.0)
+elasticsearch_dsl ::::: Apache Software License (Apache-2.0)
+mysqlclient ::::: GNU General Public License (GPL) (GPL)
+django-debug-toolbar ::::: BSD License (BSD)
+rcssmin ::::: OSI Approved (Apache License)
+python-memcached ::::: Python Software Foundation License
+oauth ::::: MIT License
+django-compressor ::::: MIT License (MIT)
+blog ::::: GNU General Public License v3 (GPLv3)
+django-haystack ::::: BSD License
+sugartensor ::::: MIT
+lightfm ::::: MIT License (MIT)
+reportlab ::::: BSD License (BSD license (see license.txt for details), Copyright (c) 2000-2018, ReportLab Inc.)
+Carbon ::::: Apache Software License (Apache Software License 2.0)
+wfuzz ::::: GNU General Public License v2 (GPLv2) (GPLv2)
+exifread ::::: BSD License (BSD)
+markers ::::: Apache 2.0
+lektor ::::: BSD License (BSD)
+filetype ::::: MIT License (MIT)
+EasyDict ::::: LPGL, see LICENSE file.
+segmentation ::::: MIT License
+mx ::::: MIT License
+coco ::::: UNKNOWN
+mxnet-cu80 ::::: Apache Software License (Apache 2.0)
+ds_utils ::::: MIT
+syncer ::::: MIT License (MIT)
+py_backwards ::::: MIT
+m2r ::::: MIT License (MIT)
+doit ::::: MIT License (MIT)
+readthedocs-sphinx-ext ::::: MIT
+ropper ::::: BSD License (BSD)
+unicorn ::::: BSD License
+keystone-engine ::::: BSD License
+overpy ::::: MIT License (MIT)
+pyproj ::::: MIT License (MIT)
+messenger ::::: UNKNOWN
+exception ::::: MIT License (MIT license)
+bert_base ::::: MIT License (MIT)
+hyperparams ::::: BSD
+bunch ::::: MIT License (MIT)
+imapclient ::::: BSD License (http://en.wikipedia.org/wiki/BSD_licenses)
+imap_utils ::::: GNU General Public License (GPL) (GPL)
+logbook ::::: BSD
+dowser ::::: Python Software Foundation License (PSF)
+pampy ::::: MIT License
+views ::::: BSD
+ukt ::::: Charles Leifer
+huey ::::: MIT License
+torchdiffeq ::::: MIT License
+detest ::::: GNU LGPL
+PySide ::::: GNU Library or Lesser General Public License (LGPL) (LGPL)
+xiami ::::: MIT License
+netease ::::: MIT License (MIT)
+qq ::::: UNKNOWN
+logconfig ::::: MIT License (MIT License)
+environment ::::: MIT License (UNKNOWN)
+hashfs ::::: MIT License (MIT License)
+doc8 ::::: Apache Software License
+google-cloud-storage ::::: Apache Software License (Apache 2.0)
+coreschema ::::: BSD License (BSD)
+coreapi ::::: BSD License (BSD)
+access_points ::::: GNU General Public License v3 (GPLv3) (MIT)
+whereami ::::: MIT
+pygcn ::::: GNU General Public License v3 or later (GPLv3+) (GPL-2+)
+snaptime ::::: UNKNOWN
+maya ::::: MIT License (MIT)
+lupa ::::: MIT License (MIT style)
+splash ::::: BSD License (BSD)
+xvfbwrapper ::::: MIT License (MIT)
+adblockparser ::::: MIT License (MIT)
+qt5reactor ::::: MIT License (MIT)
+sip ::::: SIP
+ipython_genutils ::::: BSD License (BSD)
+contrib ::::: Apache-2.0 OR MIT
+haxor_news ::::: Apache Software License (Apache License 2.0)
+MonkeyType ::::: BSD License (BSD)
+retype ::::: MIT License (MIT)
+inbox ::::: MIT
+libcst ::::: MIT License (MIT)
+monkeytype ::::: BSD License (BSD)
+skflow ::::: Apache-2
+autoscraper ::::: MIT License (MIT)
+blackbox ::::: GNU General Public License (GPL) (UNKNOWN)
+wal_e ::::: BSD
+rawpy ::::: MIT License
+rl ::::: GNU General Public License v3 (GPLv3) (GPLv3)
+python-markdown-math ::::: BSD 3-Clause License
+falconn ::::: MIT
+cleverhans ::::: MIT
+robust_vision_benchmark ::::: MIT License (MIT)
+pyroomacoustics ::::: MIT License (MIT)
+spotdl ::::: MIT License (MIT)
+ytmusicapi ::::: MIT
+wechatsogou ::::: MIT License (MIT License)
+bleu ::::: BSD 3-Clause
+bencode ::::: BitTorrent Open Source License
+geographiclib ::::: MIT License (MIT)
+architect ::::: Apache Software License (Apache 2.0)
+gntp ::::: MIT License (UNKNOWN)
+requests-oauthlib ::::: BSD License (ISC)
+apprise ::::: MIT License (MIT)
+serializer ::::: BSD License (BSD)
+support ::::: BSD License (BSD)
+dom ::::: MIT License (MIT)
+mapreduce ::::: GPL 2
+runtests ::::: BSD-2-Clause
+blobstore ::::: GNU General Public License v3 or later (GPLv3+)
+simpletree ::::: BSD
+tokenizer ::::: MIT License (MIT)
+anyio ::::: MIT License (MIT)
+endpoints ::::: MIT License (MIT)
+flask_jsondash ::::: BSD License (MIT)
+nox ::::: Apache Software License (Apache Software License)
+Yarg ::::: MIT License (MIT)
+yarg ::::: MIT License (MIT)
+pipreqs ::::: Apache Software License (Apache License)
+pattern ::::: BSD License (BSD)
+loader ::::: Apache Software License, MIT License
+events ::::: BSD License (BSD)
+readme_renderer ::::: Apache Software License (Apache License, Version 2.0)
+emitter ::::: MIT License (UNKNOWN)
+lexicon ::::: BSD License (BSD)
+scanner ::::: MIT License
+package ::::: BSD License (UNKNOWN)
+constructor ::::: MIT License (MIT)
+dumper ::::: MIT License (MIT)
+sphinx-autodoc-typehints ::::: MIT License (MIT)
+sphinxcontrib-spelling ::::: BSD License
+scylla ::::: Apache Software License
+sanic-cors ::::: MIT License (MIT)
+sanic_cors ::::: MIT License (MIT)
+mesh_tensorflow ::::: Apache Software License (Apache 2.0)
+tensor2tensor ::::: Apache Software License (Apache 2.0)
+t5 ::::: Apache Software License (Apache 2.0)
+pysolr ::::: BSD License (BSD)
+msgpack-python ::::: Apache Software License (Apache 2.0)
+dnslib ::::: BSD
+python-magic ::::: MIT License (MIT)
+URLMonitor ::::: MIT License
+ipy ::::: BSD License (BSD License)
+IPy ::::: BSD License (BSD License)
+scapy ::::: GNU General Public License v2 (GPLv2) (GPLv2)
+netfilterqueue ::::: MIT License (MIT)
+pyinotify ::::: MIT License (MIT License)
+cookies ::::: MIT License (UNKNOWN)
+Config ::::: BSD License (Copyright (C) 2004-2020 by Vinay Sajip. All Rights Reserved. See LICENSE for license.)
+mouse ::::: MIT License (MIT)
+FileSystem ::::: The MIT License (MIT)
+pysrt ::::: GNU General Public License (GPL) (GPLv3)
+autosub ::::: The MIT License (MIT)
+__coconut__ ::::: Apache Software License (Apache 2.0)
+coconut ::::: Apache Software License (Apache 2.0)
+cPyparsing ::::: Apache Software License
+trollius ::::: Apache Software License (Apache License 2.0)
+sphinx_bootstrap_theme ::::: MIT License
+pytest-pep8 ::::: MIT license
+toapi ::::: Apache Software License (Apache 2.0)
+albert ::::: GNU General Public License (GPL)
+bullet ::::: MIT
+urlimport ::::: MIT License (MIT)
+node ::::: BSD License (BSD)
+grok ::::: Zope Public License (ZPL)
+spam ::::: GNU General Public License v3 (GPLv3) (GPLv3)
+deadlock ::::: GNU Affero General Public License v3 or later (AGPLv3+) (GNU Affero General Public License v3)
+eventhandler ::::: MIT License (MIT License)
+actor ::::: GNU General Public License v2 or later (GPLv2+) (LGPL-2.1-or-later)
+resty ::::: UNKNOWN
+example2 ::::: MIT
+async-timeout ::::: Apache Software License (Apache 2)
+elastic-apm ::::: BSD License (BSD)
+unasync ::::: Apache Software License, MIT License (MIT -or- Apache License 2.0)
+elasticapm ::::: BSD License (BSD)
+fn ::::: Copyright 2013 Alexey Kachayev
+userpath ::::: Apache Software License, MIT License (MIT OR Apache-2.0)
+pipx ::::: MIT License (License :: OSI Approved :: MIT License)
+pycowsay ::::: License :: OSI Approved :: MIT License
+trfl ::::: Apache Software License (Apache 2.0)
+provider ::::: MIT License (MIT license)
+scene ::::: MIT License (MIT)
+displayer ::::: MIT
+pycairo ::::: GNU Lesser General Public License v2 (LGPLv2), Mozilla Public License 1.1 (MPL 1.1) (LGPL-2.1-only OR MPL-1.1)
+pydub ::::: MIT License (MIT)
+geometry ::::: MIT License (MIT)
+mobject ::::: LICENCE.mit
+colour ::::: BSD License (BSD 3-Clause License)
+nn ::::: MIT License (MIT)
+animation ::::: Apple Public Source License (Apache-2.0)
+manimlib ::::: MIT
+CloudFlare ::::: MIT License (MIT)
+certbot_dns_digitalocean ::::: Apache Software License (Apache License 2.0)
+letsencrypt ::::: Apache Software License (Apache License 2.0)
+apacheconfig ::::: BSD License (BSD)
+zope.deferredimport ::::: Zope Public License (ZPL 2.1)
+certbot_dns_dnsimple ::::: Apache Software License (Apache License 2.0)
+acme ::::: Apache Software License (Apache License 2.0)
+certbot-nginx ::::: Apache Software License (Apache License 2.0)
+zope.deprecation ::::: ZPL 2.1
+certbot-apache ::::: Apache Software License (Apache License 2.0)
+certbot_dns_sakuracloud ::::: Apache Software License (Apache License 2.0)
+certbot_dns_luadns ::::: Apache Software License (Apache License 2.0)
+certbot_dns_ovh ::::: Apache Software License (Apache License 2.0)
+PyNaCl ::::: Apache License 2.0
+certbot_dns_cloudflare ::::: Apache Software License (Apache License 2.0)
+certbot_dns_linode ::::: Apache Software License (Apache License 2.0)
+josepy ::::: Apache Software License (Apache License 2.0)
+certbot_dns_gehirn ::::: Apache Software License (Apache License 2.0)
+certbot_dns_dnsmadeeasy ::::: Apache Software License (Apache License 2.0)
+certbot_dns_rfc2136 ::::: Apache Software License (Apache License 2.0)
+certbot_dns_cloudxns ::::: Apache Software License (Apache License 2.0)
+zope.proxy ::::: Zope Public License (ZPL 2.1)
+funcsigs ::::: Apache Software License (ASL)
+certbot_nginx ::::: Apache Software License (Apache License 2.0)
+pyRFC3339 ::::: MIT License (MIT)
+certbot_dns_nsone ::::: Apache Software License (Apache License 2.0)
+zope.component ::::: OSI Approved, Zope Public License (ZPL 2.1)
+certbot_dns_google ::::: Apache Software License (Apache License 2.0)
+pyrfc3339 ::::: MIT License (MIT)
+dns-lexicon ::::: MIT License (MIT)
+certbot ::::: Apache Software License (Apache License 2.0)
+certbot_apache ::::: Apache Software License (Apache License 2.0)
+merge_requirements ::::: MIT License (MIT)
+ConfigArgParse ::::: MIT License (MIT)
+zope.hookable ::::: Zope Public License (ZPL 2.1)
+certbot_dns_route53 ::::: Apache Software License (Apache License 2.0)
+ycm ::::: MIT License (MIT)
+requests_futures ::::: Apache Software License (Apache License v2)
+flake8-ycm ::::: Apache Software License (Apache License 2.0)
+flake8-comprehensions ::::: MIT License (MIT)
+PyHamcrest ::::: BSD License (New BSD)
+covimerage ::::: MIT License
+result ::::: MIT License (MIT)
+torrequest ::::: MIT
+notify ::::: MIT License (MIT)
+js2py ::::: MIT

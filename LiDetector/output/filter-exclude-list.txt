@@ -1,0 +1,212 @@
+1 1 Apache License Version 2.0 (Apache-2.0)
+2 2 MIT license (MIT)
+3 3 Microsoft Public License (Ms-PL)
+4 4 GNU General Public License v2.0 (GPL-2.0)
+5 5 GNU General Public License Version 3 (GPL-3)
+6 6 Mozilla Public License 2.0 (MPL-2.0)
+7 7 GNU Lesser General Public License v2.1 (LGPL-2.1)
+8 8 BSD 2-Clause
+9 9 BSD 3-Clause
+10 10 Zlib-Libpng
+11 11 Common Development and Distribution License (CDDL-1.0)
+12 13 Beer Recipe License (BRL)
+13 14 psfrag
+14 15 Creative Commons Attribution 3.0 Unported (CC-BY)
+15 16 Creative Commons Attribution NoDerivs (CC-ND)
+16 17 Creative Commons Attribution NonCommercial (CC-BY-NC)
+17 18 Creative Commons Attribution Share Alike (CC-SA)
+18 19 Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA)
+19 20 Creative Commons Attribution NonCommercial NoDerivs (CC-NC-ND)
+20 21 Academic Free License (AFL)
+21 22 Artistic License 2.0 (Artistic-2.0)
+22 23 PHP License 3.0
+23 24 Simple Public License 2.0
+24 25 Eclipse Public License 1.0 (EPL-1.0)
+25 26 IPA Font
+26 27 IBM Public License
+27 28 Apple Public Source License (APSL)
+28 29 University of Illinois - NCSA Open Source (NCSA)
+29 30 Do What The F*ck You Want To Public License v2 (WTFPL-2.0)
+30 32 Boost Software License 1.0 (BSL-1.0)
+31 33 ISC license
+32 34 Beerware
+33 35 Microsoft Reciprocal License (Ms-RL)
+34 36 Python License 2.0
+35 37 GNU Affero General Public License v3 (AGPL-3.0)
+36 38 SIL Open Font License v1.1 (OFL-1.1)
+37 40 TÃ³ca Operating System General (TOSG-2.00)
+38 42 The Code Project Open License (CPOL) 
+39 43 ODC Open Database License (ODbL)
+40 45 DON'T BE A DICK PUBLIC LICENSE
+41 46 X11 License
+42 47 JSON License
+43 48 Lisp Lesser General Public License (LLGPL)
+44 49 Common Public Attribution License (CPAL-1.0)
+45 50 Aladdin Free Public License
+46 53 Clarified Artistic License
+47 54 Frameworx Open License (Frameworx-1.0)
+48 55 Freetype Project License (FTL)
+49 58 JZLib
+50 64 Noweb
+51 65 Qhull
+52 66 Rdisc
+53 69 The Don't Ask Me About It
+54 70 European Union Public License (EUPL-1.1)
+55 73 Unlicense
+56 74 MiTTY
+57 79 Fair License
+58 80 Educational Community License (ECL-2.0)
+59 82 Ubuntu Font License (UFL-1.0)
+60 84 Open Software Licence 3.0
+61 85 Adaptive Public License 1.0 (APL-1.0)
+62 86 ANTLR Software Rights Notice (ANTLR-PD)
+63 87 Attribution Assurance License (AAL)
+64 89 Common Public License (CPL-1.0)
+65 90 Condor Public License (Condor-1.1)
+66 91 Do What The F*ck You Want To Public License (WTFPL)
+67 92 Eiffel Forum License (EFL-2.0)
+68 93 Entessa Public License (Entessa)
+69 94 EU DataGrid Software License (EUDatagrid)
+70 95 Historic Permission Notice and Disclaimer (HPND)
+71 96 IBM PowerPC Initialization and Boot Software (IBM-pibs)
+72 97 Imlib2 License (Imlib2)
+73 98 Independent JPEG Group (IJG)
+74 99 Intel Open Source
+75 100 Lucent Public License (LPL-1.02)
+76 101 MirOS (MirOS)
+77 102 Multics (Multics)
+78 103 NASA Open Source Agreement (NASA-1.3)
+79 104 Naumen Public License (Naumen)
+80 105 Net Boolean Public License (NBPL-1.0)
+81 106 Nethack General Public License (NGPL)
+82 107 Non-Profit Open Software License (NPOSL-3.0)
+83 108 NTP (NTP)
+84 109 OCLC Research Public License (OCLC-2.0)
+85 110 ODC Public Domain Dedication & License (PDDL-1.0)
+86 111 Open Group Test Suite License (OGTSL)
+87 112 OpenLDAP Public License (OLDAP-2.8)
+88 113 OpenSSL license
+89 114 PostgreSQL (PostgreSQL)
+90 115 Q Public License (QPL-1.0)
+91 116 Red Hat eCos Public License (RHeCos-1.1)
+92 117 Ricoh Source Code Public License (RSCPL)
+93 118 Ruby License
+94 119 Sax Public Domain Notice (SAX-PD)
+95 120 SGI Free Software (SGI-B-2.0)
+96 121 Standard ML of New Jersey (SMLNJ)
+97 122 SugarCRM Public License (SugarCRM-1.1.3)
+98 123 Mozilla Public License (MPL-1.1)
+99 124 Sun Industry Standards Source License v1.2 (SISSL-1.2)
+100 125 Vovida Software License (VSL-1.0)
+101 126 W3C Software Notice and License (W3C)
+102 127 wxWindows Library (WXwindows)
+103 128 X.Net License (Xnet)
+104 129 XFree86 License (XFree86-1.1)
+105 130 Yahoo! Public License (YPL-1.1)
+106 131 Zimbra Public License (Zimbra-1.3)
+107 132 Zope Public License (ZPL-2.1)
+108 133 BitTorrent Open Source (BitTorrent-1.1)
+109 134 Computer Associates Trusted Open Source License (CATOSL-1.1)
+110 135 CUA Office Public License (CUA-OPL-1.0)
+111 136 Erlang Public License (ErlPL-1.1)
+112 137 gSOAP Public License (gSOAP-1.3b)
+113 138 LaTeX Project Public License (LPPL-1.3c)
+114 139 Netizen Open Source License (NOSL)
+115 140 Netscape Public License (NPL-1.1)
+116 141 Nokia Open Source License
+117 142 Sun Public License (SPL-1.0)
+118 143 Sybase Open Watcom Public (Watcom-1.0)
+119 144 Open Public License (OPL-1.0)
+120 145 RealNetworks Public Source License (RPSL-1.0)
+121 146 Reciprocal Public License 1.5 (RPL-1.5)
+122 148 Creative Commons CC0 (CC-0)
+123 150 Peer Production License
+124 151 Creative Commons Attribution (CC-BY)
+125 152 OPEN GAME LICENSE
+126 154 Licence for 6 box js
+127 155 Doom Source Licence
+128 156 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA)
+129 157 GG License 1.0 (GG1)
+130 159 bzip2
+131 160 Creative Commons Attribution-NonCommercial 4.0 International (CC-BY-NC)
+132 161 Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA)
+133 162 Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND)
+134 163 Agate License
+135 164 Copyfree Open Innovation License (COIL-0.3)
+136 165 Oracle Binary Code License Agreement for the Java SE Platform Products and JavaFX
+137 167 Charity Software License
+138 175 Do What The Fuck You Want To But It's Not My Fault Public License v1 (WTFNMFPL-1.0)
+139 180 Egreen Open Source
+140 183 GNU Lesser General Public License (LGPL-3.0)
+141 188 Commons Clause License Condition v1.0
+142 192 TrackingTeam Licence
+143 196 Very Simple Public License (VSPL)
+144 199 Unreal Engine End User License Agreement v9
+145 200 IDGAF 
+146 203 Air Software EULA
+147 208 The Spice Software License Version 1.1 (Spice-1.1)
+148 213 Apache License 1.1 (Apache-1.1)
+149 214 Apache License 1.0 (Apache-1.0)
+150 215 Mug Foundation open formats license
+151 216 CeCILL Free Software License Agreement v1.0 (CECILL-1.0)
+152 217 CeCILL Free Software License Agreement v1.1 (CECILL-1.1)
+153 218 CeCILL Free Software License Agreement v2.0 (CECILL-2.0)
+154 219 Simple non code license (SNCL)
+155 220 Apple MIT License (AML)
+156 221 Xerox (Xerox)
+157 222 Zope Public License 1.1 (ZPL-1.1)
+158 223 Zope Public License 2.0 (ZPL-2.0)
+159 224 Mozilla Public License 1.0 (MPL-1.0)
+160 226 Open Software License 1.0 (OSL-1.0)
+161 227 Open Software License 1.1 (OSL-1.1)
+162 228 Open Software License 2.0 (OSL-2.0)
+163 229 Open Software License 2.1 (OSL-2.1)
+164 232 Tcl license
+165 235 4-Clause BSD
+166 238 Universal Permissive License 1.0 (UPL-1.0)
+167 245 Unlicence
+168 265 Fair Source License (Fair-Source-0.9)
+169 266 Free Public License 1.0.0
+170 281 hx711_SPI license
+171 294 Mechanical license
+172 303 FusionLord Custom License
+173 308 Sleepycat License
+174 310 Getindor Glee License (GGL)
+175 315 Use use use License
+176 322 Mts license
+177 325 gridSlider license
+178 326 Jared M.F. Open Source Public License
+179 327 Jared M.F. Public License
+180 330 3dfx Glide license
+181 331 Abstyles license
+182 332 Academy of Motion Picture Arts and Sciences BSD
+183 333 Adobe Glyph List
+184 334 Adobe Postscript AFM
+185 335 Adobe Systems Incorporated Source Code License Agreement
+186 336 Afmparse license
+187 337 Amazon Digital Services
+188 338 ANTLR Software Rights Notice
+189 340 Barr license
+190 341 Borceux license
+191 343 CMU license
+192 346 Cube license
+193 347 curl license
+194 348 diffmark license
+195 349 DOC License
+196 351 DSDP License
+197 353 Eurosym license
+198 355 Giftware license
+199 356 Glulxe license
+200 357 Haskell Language Report
+201 359 No Limit Public license
+202 360 psutils license
+203 362 BSD 0-Clause License (BSD)
+204 363 Wizardry license
+205 364 XSkat license
+206 365 Zed license
+207 366 Sendmail license
+208 367 TORQUE Software License v1.1
+209 371 SYCL license
+210 374 Code Energy Public License (CEPL-1.0)
+211 401 Simple Non Code License (SNCL)
+212 405 Dell Mohali

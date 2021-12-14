@@ -1,0 +1,5 @@
+NAME "BG_LESS
+
+ROOT->NP->NP->NN->NAME
+ROOT->NP->NP->''->"
+ROOT->NP->NP->NN->BG_LESS
