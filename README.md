@@ -5,9 +5,11 @@ For an open-source project as input, where licenses may appear in three forms: r
 **(1) Preprocessing**, which filters out official licenses and feeds custom ones into the probabilistic model for automatic understandings of license texts.  
 **(2) License term identification**, which aims to identify license terms relevant to rights and obligations;   
 **(3) Right and obligation inference**, which infers the stated condition of software use defined by license terms;   
-**(4) Incompatibility detection**,  which automatically analyzes incompatibility between multiple licenses within one project based on the regulations inferred from each license.  
-![LiDetector Overview](https://drive.google.com/file/d/1Gl8fDaJdSr1sCab4JBytp15nKynGzVbb/view?usp=sharing)
+**(4) Incompatibility detection**,  which automatically analyzes incompatibility between multiple licenses within one project based on the regulations inferred from each license. 
 
+<p align="center">
+	<img src="img/overview.ipg", width="800">
+</p>
 
 # LiDetector
 
