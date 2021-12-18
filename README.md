@@ -25,6 +25,27 @@ Run the python scripts according the order below:
 
 ## Dirs and files
 
+```
++-- *unzips* : aaa
++-- extract_licenseRelated_fromPros.py
++-- output
++-- model
+|   +-- data
+|   +-- PreprocessData
+|   +-- LocateTerms
+|       +-- data
+|       +-- model 
+|       +-- results
+|       +-- build_data, train, evaluate
+|       +-- ner_predict
+|   +-- DetermAtti
++-- prepare_condInfo
++-- condInfo
++-- check_incompatibility
++-- checkIncom_functions
+```
+
+
 ## Other needs
 
 ### Ninka
