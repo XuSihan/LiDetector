@@ -13,6 +13,20 @@ For an open-source project as input, where licenses may appear in three forms: r
 
 # Code
 
+## How to start
+Run the python scripts according the order below:  
+`extract_licenseRelated_fromPros.py`  
+`collect_files_for_model.py`  
+`model\PreprocessData\cleanData_intoTestDir.py`  
+`model\LocateTerms\ner_predict.py`  
+`model\DetermAtti\get_treeAtti.py`  
+`prepare_condInfo.py`  
+`check_incompatibility.py`  
+
+## Dirs and files
+
+## Other needs
+
 
 
 # Knowledge
