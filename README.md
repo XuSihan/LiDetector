@@ -27,6 +27,13 @@ Run the python scripts according the order below:
 
 ## Other needs
 
+### Ninka
+Ninka is needed in the *checkLicenseInline* function on *line 101* of *extract_licenseRelated_fromPros.py*. This part is run separately, because Ninka is based on Linux, to read the processed results of Ninka.  
+Ninka: https://github.com/dmgerman/ninka
+
+### Corenlp
+Corenlp is needed in this paper to help parse the sytax tree of license sentences. You can download it and put it at the pre-set path `./model/stanford-corenlp-4.3.2`.
+Corenlp：https://stanfordnlp.github.io/CoreNLP/
 
 
 # Knowledge
