@@ -25,8 +25,10 @@ Run the python scripts according the order below:
 
 ## Dirs and files
 
+Some directories and files are explained here:
+
 ```
-+-- *unzips* : aaa
++-- unzips : the OSS projects to be detected
 +-- extract_licenseRelated_fromPros.py
 +-- output
 +-- model
