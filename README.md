@@ -1,7 +1,7 @@
 # LiDetector
 
 **LiDetector** , a hybrid method that automatically understands license texts and infers rights and obligations to detect license incompatibility in open-source software.   
-For an open-source project as input, where licenses may appear in three forms: referenced, declared, and inline, the license texts are first extracted from the two forms for further incompatibility analysis. With  such a license set, the main components of LiDetector include:   
+For an open-source project as input, where licenses may appear in three forms: referenced, declared, and inline, the license texts are first extracted from the three forms for further incompatibility analysis. With  such a license set, the main components of LiDetector include:   
 **(1) Preprocessing**, which filters out official licenses and feeds custom ones into the probabilistic model for automatic understandings of license texts.  
 **(2) License term identification**, which aims to identify license terms relevant to rights and obligations;   
 **(3) Right and obligation inference**, which infers the stated condition of software use defined by license terms;   
@@ -28,23 +28,23 @@ Run the python scripts according the order below:
 Some directories and files are explained here:
 
 ```
-+-- unzips : the OSS projects to be detected
-+-- extract_licenseRelated_fromPros.py
-+-- output
-+-- model
-|   +-- data
-|   +-- PreprocessData
-|   +-- LocateTerms
-|       +-- data
-|       +-- model 
-|       +-- results
-|       +-- build_data, train, evaluate
-|       +-- ner_predict
-|   +-- DetermAtti
-+-- prepare_condInfo
-+-- condInfo
-+-- check_incompatibility
-+-- checkIncom_functions
++-- unzips : the OSS projects to be tested
++-- extract_licenseRelated_fromPros.py : extract licenses from OSS projects
++-- output : licenses extracted in three forms
++-- model : license comprehension
+|   +-- data : test data for term identification
+|   +-- PreprocessData : preprocess for test data
+|   +-- LocateTerms : term identification
+|       +-- data : data for term identification (train, dev, test) 
+|       +-- model : sequence labelling model
+|       +-- results : the trained model
+|       +-- build_data, train, evaluate : for model training  
+|       +-- ner_predict : predict terms for test data based on the trained model
+|   +-- DetermAtti : right and obligation inference
++-- prepare_condInfo : extract license condition relationship
++-- condInfo : license condition extracted
++-- check_incompatibility : check license compatibility of OSS projects based on results above
++-- checkIncom_functions : regulations of license compatibility
 ```
 
 
