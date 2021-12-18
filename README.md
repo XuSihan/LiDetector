@@ -8,7 +8,7 @@ For an open-source project as input, where licenses may appear in three forms: r
 **(4) Incompatibility detection**,  which automatically analyzes incompatibility between multiple licenses within one project based on the regulations inferred from each license. 
 
 <p align="center">
-	<img src="img/overview.ipg", width="800">
+	<img src="overview.ipg", width="800">
 </p>
 
 # LiDetector
