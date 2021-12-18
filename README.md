@@ -45,9 +45,9 @@ https://drive.google.com/uc?id=1TWeDJJeUsD8AY0sQgA7SYSfjEcHD-D2z&export=download
 We crawled 1,846 Github projects for motivating study and Empirical Study, in which each OSS project has high star numbers. They were extracted by their inline licenses,  declared licenses, referenced licenses, and identified by ID from 1 to 1,846, which can be downloaded by the following link.  
 https://drive.google.com/uc?id=1TQS_UmX0wpTvq5dj5b6CdGc20v9qd4JP&export=download
 
-## Dataset for Empirical Study
-We crawled 1,846 Github projects for motivating study and Empirical Study, in which each OSS project has high star numbers. They were extracted by their inline licenses,  declared licenses, referenced licenses, and identified by ID from 1 to 1,846, which can be downloaded by the following link.  
-https://drive.google.com/uc?id=1TQS_UmX0wpTvq5dj5b6CdGc20v9qd4JP&export=download
+## Test dataset for  Incompatibility Detection phase
+We randomly selected 200 projects from the above 1,846 GitHub project and constructed a ground-truth dataset by manual analysis, on whether this project has a license incompatibility situation. The testing list can be downloaded by the following link.  
+https://drive.google.com/uc?id=1e91pG_EGvqUxtNiLbeKPj-WxRTByOzrp&export=download
 
 ## Dataset for official licenses
 In this paper, *official licenses* denote licenses from the Software Package Data Exchange (SPDX). We collect and annotate these licenses for their rights, obligations and conditions.  
