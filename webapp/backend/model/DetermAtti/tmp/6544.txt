@@ -1,0 +1,3 @@
+. NAME ( 'A' ) PRINT ( A
+
+ROOT->FRAG->.->.

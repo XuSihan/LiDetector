@@ -1,0 +1,3 @@
+. NAME TO [ 'WORKDIR' ] T
+
+ROOT->FRAG->.->.

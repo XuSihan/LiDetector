@@ -1,0 +1,3 @@
+. NAME , LOG_TYPE'FILE' , FILEPATH'XX
+
+ROOT->FRAG->.->.

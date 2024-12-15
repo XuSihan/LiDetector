@@ -1,0 +1,3 @@
+. NAME ) RES [ BASENAME ] OS
+
+ROOT->FRAG->.->.

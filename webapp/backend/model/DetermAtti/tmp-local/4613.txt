@@ -1,0 +1,3 @@
+. BAD
+
+ROOT->FRAG->.->.

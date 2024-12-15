@@ -1,0 +1,5 @@
+NAME "EVAL
+
+ROOT->NP->NP->NN->NAME
+ROOT->NP->NP->''->"
+ROOT->NP->NP->NN->EVAL

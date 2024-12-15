@@ -1,0 +1,3 @@
+. NAME ( 'OS' , 'DISTRO+DISTRO_VER' , 'ARCH' ) 'LINUX-SUSE-X' >>> PI
+
+ROOT->FRAG->.->.

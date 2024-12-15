@@ -1,0 +1,3 @@
+. NAME >>> FOR RULE IN CHAIN
+
+ROOT->FRAG->.->.

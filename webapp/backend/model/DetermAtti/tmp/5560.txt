@@ -1,0 +1,3 @@
+. NAME 'INPUT' >>> LEN ( CHAIN
+
+ROOT->FRAG->.->.

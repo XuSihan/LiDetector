@@ -1,0 +1,3 @@
+. NAME ] MOCK_DICT
+
+ROOT->FRAG->.->.
