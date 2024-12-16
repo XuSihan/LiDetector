@@ -1,5 +1,5 @@
 # LiDetector
-test
+
 **LiDetector** , a hybrid method that automatically understands license texts and infers rights and obligations to detect license incompatibility in open-source software.   
 For an open-source project as input, where licenses may appear in three forms: referenced, declared, and inline, the license texts are first extracted from the three forms for further incompatibility analysis. With  such a license set, the main components of LiDetector include:   
 **(1) Preprocessing**, which filters out official licenses and feeds custom ones into the probabilistic model for automatic understandings of license texts.  
