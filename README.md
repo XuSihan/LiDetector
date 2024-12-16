@@ -28,6 +28,7 @@ Run the Python scripts in the following order:
 
 Some directories and files are explained here:
 
+```
 +-- unzips: OSS projects to be tested
 +-- extract_licenseRelated_fromPros.py: Extracts licenses from OSS projects
 +-- output: Licenses extracted in three forms
@@ -45,7 +46,7 @@ Some directories and files are explained here:
 +-- condInfo: License conditions extracted
 +-- check_incompatibility: Check license compatibility of OSS projects based on results above
 +-- checkIncom_functions: Regulations of license compatibility
-
+```
 
 ## Other Requirements
 
